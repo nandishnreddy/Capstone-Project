@@ -1,0 +1,18 @@
+# created by virtualenv automatically
+*# Python cache
+__pycache__/
+*.pyc
+
+
+
+# Virtual env
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+
+# OS files
+.DS_Store
