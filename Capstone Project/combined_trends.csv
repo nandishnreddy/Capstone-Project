@@ -1,408 +1,334 @@
 tool_name,category,platform,start_week,end_week,popularity_score
-ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,84
-Claude,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,37
-Gemini,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,181
-Grok,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,42
-Perplexity,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,36
-Mistral,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,43
-LLaMA,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,108
-Command R+,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,59
-Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,2
-Anthropic,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,120
-Pi AI,LLMs & Chatbots,StackOverflow,2025-08-04,2025-08-10,23
-Falcon,Open Source Models,StackOverflow,2025-08-04,2025-08-10,56
-Dolly,Open Source Models,StackOverflow,2025-08-04,2025-08-10,67
-StableLM,Open Source Models,StackOverflow,2025-08-04,2025-08-10,45
-Vicuna,Open Source Models,StackOverflow,2025-08-04,2025-08-10,28
-Alpaca,Open Source Models,StackOverflow,2025-08-04,2025-08-10,0
-Orca,Open Source Models,StackOverflow,2025-08-04,2025-08-10,70
-Mixtral,Open Source Models,StackOverflow,2025-08-04,2025-08-10,160
-Phi,Open Source Models,StackOverflow,2025-08-04,2025-08-10,4
-DeepSeek,Open Source Models,StackOverflow,2025-08-04,2025-08-10,154
-Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,137
-DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,94
-MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,103
-Runway,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,113
-Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,140
-Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,27
-Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,157
-Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,176
-Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,5
-Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-04,2025-08-10,32
-Whisper,Speech/Audio,StackOverflow,2025-08-04,2025-08-10,193
-ElevenLabs,Speech/Audio,StackOverflow,2025-08-04,2025-08-10,158
-Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-04,2025-08-10,42
-Descript,Speech/Audio,StackOverflow,2025-08-04,2025-08-10,154
-Play.ht,Speech/Audio,StackOverflow,2025-08-04,2025-08-10,150
-Pinecone,Vector Databases,StackOverflow,2025-08-04,2025-08-10,96
-Weaviate,Vector Databases,StackOverflow,2025-08-04,2025-08-10,178
-Chroma,Vector Databases,StackOverflow,2025-08-04,2025-08-10,166
-Milvus,Vector Databases,StackOverflow,2025-08-04,2025-08-10,145
-Vespa,Vector Databases,StackOverflow,2025-08-04,2025-08-10,80
-Redis Vector,Vector Databases,StackOverflow,2025-08-04,2025-08-10,64
-Qdrant,Vector Databases,StackOverflow,2025-08-04,2025-08-10,33
-LangChain,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,37
-LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,164
-Haystack,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,134
-DSPy,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,125
-Transformers,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,124
-Diffusers,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,171
-OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,35
-DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,39
-Accelerate,Frameworks & Libraries,StackOverflow,2025-08-04,2025-08-10,186
-MLflow,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,14
-Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,187
-ClearML,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,114
-Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,138
-Prefect,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,136
-Airflow,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,93
-Ray,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,110
-Flyte,MLOps & Orchestration,StackOverflow,2025-08-04,2025-08-10,135
-Azure AI,Cloud AI Platforms,StackOverflow,2025-08-04,2025-08-10,67
-AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-04,2025-08-10,38
-Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-04,2025-08-10,198
-Cohere,Cloud AI Platforms,StackOverflow,2025-08-04,2025-08-10,50
-AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-04,2025-08-10,177
-Copilot,Code Generation,StackOverflow,2025-08-04,2025-08-10,69
-CodeWhisperer,Code Generation,StackOverflow,2025-08-04,2025-08-10,152
-Tabnine,Code Generation,StackOverflow,2025-08-04,2025-08-10,160
-Replit AI,Code Generation,StackOverflow,2025-08-04,2025-08-10,117
-AutoGPT,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,72
-BabyAGI,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,92
-CrewAI,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,82
-Langroid,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,76
-Voyager,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,60
-Devin AI,Productivity / Agents,StackOverflow,2025-08-04,2025-08-10,128
-ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,113
-Claude,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,190
-Gemini,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,193
-Grok,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,134
-Perplexity,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,152
-Mistral,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,36
-LLaMA,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,29
-Command R+,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,38
-Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,163
-Anthropic,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,8
-Pi AI,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,162
-Falcon,Open Source Models,StackOverflow,2025-08-11,2025-08-17,75
-Dolly,Open Source Models,StackOverflow,2025-08-11,2025-08-17,128
-StableLM,Open Source Models,StackOverflow,2025-08-11,2025-08-17,51
-Vicuna,Open Source Models,StackOverflow,2025-08-11,2025-08-17,89
-Alpaca,Open Source Models,StackOverflow,2025-08-11,2025-08-17,50
-Orca,Open Source Models,StackOverflow,2025-08-11,2025-08-17,185
-Mixtral,Open Source Models,StackOverflow,2025-08-11,2025-08-17,4
-Phi,Open Source Models,StackOverflow,2025-08-11,2025-08-17,196
-DeepSeek,Open Source Models,StackOverflow,2025-08-11,2025-08-17,155
-Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,107
-DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,74
-MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,146
-Runway,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,38
-Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,196
-Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,158
-Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,193
-Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,191
-Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,50
-Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,119
-Whisper,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,43
-ElevenLabs,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,19
-Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,110
-Descript,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,16
-Play.ht,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,114
-Pinecone,Vector Databases,StackOverflow,2025-08-11,2025-08-17,15
-Weaviate,Vector Databases,StackOverflow,2025-08-11,2025-08-17,70
-Chroma,Vector Databases,StackOverflow,2025-08-11,2025-08-17,167
-Milvus,Vector Databases,StackOverflow,2025-08-11,2025-08-17,65
-Vespa,Vector Databases,StackOverflow,2025-08-11,2025-08-17,26
-Redis Vector,Vector Databases,StackOverflow,2025-08-11,2025-08-17,2
-Qdrant,Vector Databases,StackOverflow,2025-08-11,2025-08-17,41
-LangChain,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,35
-LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,195
-Haystack,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,117
-DSPy,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,142
-Transformers,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,172
-Diffusers,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,173
-OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,18
-DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,146
-Accelerate,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,11
-MLflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,11
-Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,110
-ClearML,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,75
-Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,50
-Prefect,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,106
-Airflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,128
-Ray,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,107
-Flyte,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,61
-Azure AI,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,68
-AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,188
-Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,75
-Cohere,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,141
-AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,190
-Copilot,Code Generation,StackOverflow,2025-08-11,2025-08-17,195
-CodeWhisperer,Code Generation,StackOverflow,2025-08-11,2025-08-17,112
-Tabnine,Code Generation,StackOverflow,2025-08-11,2025-08-17,28
-Replit AI,Code Generation,StackOverflow,2025-08-11,2025-08-17,130
-AutoGPT,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,152
-BabyAGI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,118
-CrewAI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,152
-Langroid,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,129
-Voyager,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,16
-Devin AI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,173
-ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,163
-Claude,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,136
-Gemini,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,110
-Grok,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,149
-Perplexity,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,94
-Mistral,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,101
-LLaMA,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,152
-Command R+,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,175
-Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,137
-Anthropic,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,88
-Pi AI,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,49
-Falcon,Open Source Models,StackOverflow,2025-08-18,2025-08-24,66
-Dolly,Open Source Models,StackOverflow,2025-08-18,2025-08-24,66
-StableLM,Open Source Models,StackOverflow,2025-08-18,2025-08-24,154
-Vicuna,Open Source Models,StackOverflow,2025-08-18,2025-08-24,164
-Alpaca,Open Source Models,StackOverflow,2025-08-18,2025-08-24,177
-Orca,Open Source Models,StackOverflow,2025-08-18,2025-08-24,141
-Mixtral,Open Source Models,StackOverflow,2025-08-18,2025-08-24,126
-Phi,Open Source Models,StackOverflow,2025-08-18,2025-08-24,10
-DeepSeek,Open Source Models,StackOverflow,2025-08-18,2025-08-24,4
-Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,60
-DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,55
-MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,113
-Runway,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,172
-Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,66
-Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,58
-Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,168
-Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,186
-Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,91
-Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,69
-Whisper,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,32
-ElevenLabs,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,35
-Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,140
-Descript,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,131
-Play.ht,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,85
-Pinecone,Vector Databases,StackOverflow,2025-08-18,2025-08-24,109
-Weaviate,Vector Databases,StackOverflow,2025-08-18,2025-08-24,15
-Chroma,Vector Databases,StackOverflow,2025-08-18,2025-08-24,53
-Milvus,Vector Databases,StackOverflow,2025-08-18,2025-08-24,192
-Vespa,Vector Databases,StackOverflow,2025-08-18,2025-08-24,123
-Redis Vector,Vector Databases,StackOverflow,2025-08-18,2025-08-24,144
-Qdrant,Vector Databases,StackOverflow,2025-08-18,2025-08-24,22
-LangChain,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,77
-LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,121
-Haystack,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,28
-DSPy,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,78
-Transformers,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,60
-Diffusers,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,69
-OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,69
-DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,7
-Accelerate,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,106
-MLflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,169
-Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,153
-ClearML,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,56
-Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,109
-Prefect,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,85
-Airflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,163
-Ray,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,49
-Flyte,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,120
-Azure AI,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,171
-AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,33
-Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,180
-Cohere,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,190
-AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,150
-Copilot,Code Generation,StackOverflow,2025-08-18,2025-08-24,14
-CodeWhisperer,Code Generation,StackOverflow,2025-08-18,2025-08-24,64
-Tabnine,Code Generation,StackOverflow,2025-08-18,2025-08-24,183
-Replit AI,Code Generation,StackOverflow,2025-08-18,2025-08-24,40
-AutoGPT,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,172
-BabyAGI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,25
-CrewAI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,111
-Langroid,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,194
-Voyager,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,140
-Devin AI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,52
-ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,84
-Claude,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,12
-Gemini,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,174
-Grok,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,38
-Perplexity,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,161
-Mistral,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,164
-LLaMA,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,68
-Command R+,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,106
-Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,132
-Anthropic,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,187
-Pi AI,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,192
-Falcon,Open Source Models,StackOverflow,2025-08-25,2025-08-31,104
-Dolly,Open Source Models,StackOverflow,2025-08-25,2025-08-31,117
-StableLM,Open Source Models,StackOverflow,2025-08-25,2025-08-31,66
-Vicuna,Open Source Models,StackOverflow,2025-08-25,2025-08-31,173
-Alpaca,Open Source Models,StackOverflow,2025-08-25,2025-08-31,101
-Orca,Open Source Models,StackOverflow,2025-08-25,2025-08-31,131
-Mixtral,Open Source Models,StackOverflow,2025-08-25,2025-08-31,119
-Phi,Open Source Models,StackOverflow,2025-08-25,2025-08-31,114
-DeepSeek,Open Source Models,StackOverflow,2025-08-25,2025-08-31,124
-Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,147
-DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,82
-MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,146
-Runway,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,80
-Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,180
-Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,195
-Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,74
-Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,146
-Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,153
-Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,133
-Whisper,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,58
-ElevenLabs,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,80
-Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,35
-Descript,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,0
-Play.ht,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,82
-Pinecone,Vector Databases,StackOverflow,2025-08-25,2025-08-31,72
-Weaviate,Vector Databases,StackOverflow,2025-08-25,2025-08-31,96
-Chroma,Vector Databases,StackOverflow,2025-08-25,2025-08-31,183
-Milvus,Vector Databases,StackOverflow,2025-08-25,2025-08-31,65
-Vespa,Vector Databases,StackOverflow,2025-08-25,2025-08-31,173
-Redis Vector,Vector Databases,StackOverflow,2025-08-25,2025-08-31,136
-Qdrant,Vector Databases,StackOverflow,2025-08-25,2025-08-31,20
-LangChain,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,52
-LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,159
-Haystack,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,10
-DSPy,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,120
-Transformers,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,7
-Diffusers,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,134
-OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,168
-DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,74
-Accelerate,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,32
-MLflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,81
-Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,175
-ClearML,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,7
-Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,19
-Prefect,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,65
-Airflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,155
-Ray,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,17
-Flyte,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,159
-Azure AI,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,83
-AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,168
-Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,152
-Cohere,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,152
-AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,8
-Copilot,Code Generation,StackOverflow,2025-08-25,2025-08-31,138
-CodeWhisperer,Code Generation,StackOverflow,2025-08-25,2025-08-31,154
-Tabnine,Code Generation,StackOverflow,2025-08-25,2025-08-31,172
-Replit AI,Code Generation,StackOverflow,2025-08-25,2025-08-31,97
-AutoGPT,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,31
-BabyAGI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,109
-CrewAI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,100
-Langroid,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,159
-Voyager,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,156
-Devin AI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,98
-ChatGPT,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,3839
-Claude,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,4095
-Gemini,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,873
-Grok,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,3370
-Perplexity,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,2310
-Mistral,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,22
-LLaMA,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,1425
-Command R+,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,0
-Open Assistant,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,165
-Anthropic,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,2513
-Pi AI,LLMs & Chatbots,HackerNews,2025-08-04,2025-08-10,9
-Falcon,Open Source Models,HackerNews,2025-08-04,2025-08-10,27
-Dolly,Open Source Models,HackerNews,2025-08-04,2025-08-10,1086
-StableLM,Open Source Models,HackerNews,2025-08-04,2025-08-10,0
-Vicuna,Open Source Models,HackerNews,2025-08-04,2025-08-10,0
-Alpaca,Open Source Models,HackerNews,2025-08-04,2025-08-10,0
-Orca,Open Source Models,HackerNews,2025-08-04,2025-08-10,865
-Mixtral,Open Source Models,HackerNews,2025-08-04,2025-08-10,18
-Phi,Open Source Models,HackerNews,2025-08-04,2025-08-10,7891
-DeepSeek,Open Source Models,HackerNews,2025-08-04,2025-08-10,33
-Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,0
-DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,14
-MidJourney,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,19
-Runway,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,49
-Leonardo AI,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,0
-Pika Labs,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,0
-Gen-2 Runway,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,0
-Kaiber,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,0
-Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,187
-Scenario,Image/Video/Audio Generation,HackerNews,2025-08-04,2025-08-10,39
-Whisper,Speech/Audio,HackerNews,2025-08-04,2025-08-10,272
-ElevenLabs,Speech/Audio,HackerNews,2025-08-04,2025-08-10,513
-Hugging Face Audio,Speech/Audio,HackerNews,2025-08-04,2025-08-10,37
-Descript,Speech/Audio,HackerNews,2025-08-04,2025-08-10,398
-Play.ht,Speech/Audio,HackerNews,2025-08-04,2025-08-10,4
-Pinecone,Vector Databases,HackerNews,2025-08-04,2025-08-10,0
-Weaviate,Vector Databases,HackerNews,2025-08-04,2025-08-10,0
-Chroma,Vector Databases,HackerNews,2025-08-04,2025-08-10,138
-Milvus,Vector Databases,HackerNews,2025-08-04,2025-08-10,0
-Vespa,Vector Databases,HackerNews,2025-08-04,2025-08-10,399
-Redis Vector,Vector Databases,HackerNews,2025-08-04,2025-08-10,5
-Qdrant,Vector Databases,HackerNews,2025-08-04,2025-08-10,0
-LangChain,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,206
-LlamaIndex,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,2
-Haystack,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,10
-DSPy,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,178
-Transformers,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,77
-Diffusers,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,9
-OpenVINO,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,72
-DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,0
-Accelerate,Frameworks & Libraries,HackerNews,2025-08-04,2025-08-10,61
-MLflow,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,0
-Weights & Biases,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,0
-ClearML,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,407
-Kubeflow,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,0
-Prefect,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,988
-Airflow,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,6
-Ray,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,8581
-Flyte,MLOps & Orchestration,HackerNews,2025-08-04,2025-08-10,11
-Azure AI,Cloud AI Platforms,HackerNews,2025-08-04,2025-08-10,4
-AWS Bedrock,Cloud AI Platforms,HackerNews,2025-08-04,2025-08-10,6
-Google Vertex AI,Cloud AI Platforms,HackerNews,2025-08-04,2025-08-10,2
-Cohere,Cloud AI Platforms,HackerNews,2025-08-04,2025-08-10,62
-AI21 Labs,Cloud AI Platforms,HackerNews,2025-08-04,2025-08-10,0
-Copilot,Code Generation,HackerNews,2025-08-04,2025-08-10,462
-CodeWhisperer,Code Generation,HackerNews,2025-08-04,2025-08-10,0
-Tabnine,Code Generation,HackerNews,2025-08-04,2025-08-10,0
-Replit AI,Code Generation,HackerNews,2025-08-04,2025-08-10,2
-AutoGPT,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,0
-BabyAGI,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,0
-CrewAI,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,0
-Langroid,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,0
-Voyager,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,13
-Devin AI,Productivity / Agents,HackerNews,2025-08-04,2025-08-10,3
-ChatGPT,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,2015
-Claude,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,8848
+ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,89
+Claude,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,94
+Gemini,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,124
+Grok,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,53
+Perplexity,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,147
+Mistral,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,92
+LLaMA,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,114
+Command R+,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,125
+Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,43
+Anthropic,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,133
+Pi AI,LLMs & Chatbots,StackOverflow,2025-08-11,2025-08-17,52
+Falcon,Open Source Models,StackOverflow,2025-08-11,2025-08-17,100
+Dolly,Open Source Models,StackOverflow,2025-08-11,2025-08-17,199
+StableLM,Open Source Models,StackOverflow,2025-08-11,2025-08-17,164
+Vicuna,Open Source Models,StackOverflow,2025-08-11,2025-08-17,16
+Alpaca,Open Source Models,StackOverflow,2025-08-11,2025-08-17,27
+Orca,Open Source Models,StackOverflow,2025-08-11,2025-08-17,105
+Mixtral,Open Source Models,StackOverflow,2025-08-11,2025-08-17,3
+Phi,Open Source Models,StackOverflow,2025-08-11,2025-08-17,82
+DeepSeek,Open Source Models,StackOverflow,2025-08-11,2025-08-17,10
+Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,175
+DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,33
+MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,132
+Runway,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,45
+Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,90
+Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,193
+Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,146
+Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,102
+Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,102
+Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-11,2025-08-17,25
+Whisper,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,193
+ElevenLabs,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,83
+Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,33
+Descript,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,44
+Play.ht,Speech/Audio,StackOverflow,2025-08-11,2025-08-17,4
+Pinecone,Vector Databases,StackOverflow,2025-08-11,2025-08-17,53
+Weaviate,Vector Databases,StackOverflow,2025-08-11,2025-08-17,109
+Chroma,Vector Databases,StackOverflow,2025-08-11,2025-08-17,199
+Milvus,Vector Databases,StackOverflow,2025-08-11,2025-08-17,87
+Vespa,Vector Databases,StackOverflow,2025-08-11,2025-08-17,170
+Redis Vector,Vector Databases,StackOverflow,2025-08-11,2025-08-17,116
+Qdrant,Vector Databases,StackOverflow,2025-08-11,2025-08-17,156
+LangChain,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,28
+LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,16
+Haystack,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,171
+DSPy,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,19
+Transformers,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,137
+Diffusers,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,88
+OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,50
+DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,105
+Accelerate,Frameworks & Libraries,StackOverflow,2025-08-11,2025-08-17,75
+MLflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,28
+Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,152
+ClearML,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,122
+Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,104
+Prefect,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,113
+Airflow,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,156
+Ray,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,18
+Flyte,MLOps & Orchestration,StackOverflow,2025-08-11,2025-08-17,137
+Azure AI,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,11
+AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,157
+Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,10
+Cohere,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,4
+AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-11,2025-08-17,175
+Copilot,Code Generation,StackOverflow,2025-08-11,2025-08-17,67
+CodeWhisperer,Code Generation,StackOverflow,2025-08-11,2025-08-17,26
+Tabnine,Code Generation,StackOverflow,2025-08-11,2025-08-17,59
+Replit AI,Code Generation,StackOverflow,2025-08-11,2025-08-17,101
+AutoGPT,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,100
+BabyAGI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,52
+CrewAI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,189
+Langroid,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,153
+Voyager,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,6
+Devin AI,Productivity / Agents,StackOverflow,2025-08-11,2025-08-17,23
+ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,58
+Claude,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,36
+Gemini,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,90
+Grok,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,24
+Perplexity,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,189
+Mistral,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,175
+LLaMA,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,54
+Command R+,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,74
+Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,23
+Anthropic,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,197
+Pi AI,LLMs & Chatbots,StackOverflow,2025-08-18,2025-08-24,85
+Falcon,Open Source Models,StackOverflow,2025-08-18,2025-08-24,110
+Dolly,Open Source Models,StackOverflow,2025-08-18,2025-08-24,195
+StableLM,Open Source Models,StackOverflow,2025-08-18,2025-08-24,168
+Vicuna,Open Source Models,StackOverflow,2025-08-18,2025-08-24,22
+Alpaca,Open Source Models,StackOverflow,2025-08-18,2025-08-24,189
+Orca,Open Source Models,StackOverflow,2025-08-18,2025-08-24,127
+Mixtral,Open Source Models,StackOverflow,2025-08-18,2025-08-24,74
+Phi,Open Source Models,StackOverflow,2025-08-18,2025-08-24,23
+DeepSeek,Open Source Models,StackOverflow,2025-08-18,2025-08-24,112
+Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,53
+DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,164
+MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,170
+Runway,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,148
+Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,56
+Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,119
+Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,74
+Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,45
+Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,143
+Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-18,2025-08-24,1
+Whisper,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,147
+ElevenLabs,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,175
+Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,161
+Descript,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,115
+Play.ht,Speech/Audio,StackOverflow,2025-08-18,2025-08-24,158
+Pinecone,Vector Databases,StackOverflow,2025-08-18,2025-08-24,55
+Weaviate,Vector Databases,StackOverflow,2025-08-18,2025-08-24,105
+Chroma,Vector Databases,StackOverflow,2025-08-18,2025-08-24,2
+Milvus,Vector Databases,StackOverflow,2025-08-18,2025-08-24,107
+Vespa,Vector Databases,StackOverflow,2025-08-18,2025-08-24,45
+Redis Vector,Vector Databases,StackOverflow,2025-08-18,2025-08-24,25
+Qdrant,Vector Databases,StackOverflow,2025-08-18,2025-08-24,127
+LangChain,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,61
+LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,179
+Haystack,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,14
+DSPy,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,64
+Transformers,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,92
+Diffusers,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,193
+OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,24
+DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,70
+Accelerate,Frameworks & Libraries,StackOverflow,2025-08-18,2025-08-24,191
+MLflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,148
+Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,185
+ClearML,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,62
+Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,110
+Prefect,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,105
+Airflow,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,43
+Ray,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,149
+Flyte,MLOps & Orchestration,StackOverflow,2025-08-18,2025-08-24,188
+Azure AI,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,109
+AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,47
+Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,198
+Cohere,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,172
+AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-18,2025-08-24,86
+Copilot,Code Generation,StackOverflow,2025-08-18,2025-08-24,51
+CodeWhisperer,Code Generation,StackOverflow,2025-08-18,2025-08-24,113
+Tabnine,Code Generation,StackOverflow,2025-08-18,2025-08-24,199
+Replit AI,Code Generation,StackOverflow,2025-08-18,2025-08-24,19
+AutoGPT,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,21
+BabyAGI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,0
+CrewAI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,180
+Langroid,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,189
+Voyager,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,11
+Devin AI,Productivity / Agents,StackOverflow,2025-08-18,2025-08-24,16
+ChatGPT,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,147
+Claude,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,70
+Gemini,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,189
+Grok,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,158
+Perplexity,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,113
+Mistral,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,129
+LLaMA,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,17
+Command R+,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,32
+Open Assistant,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,77
+Anthropic,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,46
+Pi AI,LLMs & Chatbots,StackOverflow,2025-08-25,2025-08-31,105
+Falcon,Open Source Models,StackOverflow,2025-08-25,2025-08-31,97
+Dolly,Open Source Models,StackOverflow,2025-08-25,2025-08-31,110
+StableLM,Open Source Models,StackOverflow,2025-08-25,2025-08-31,77
+Vicuna,Open Source Models,StackOverflow,2025-08-25,2025-08-31,181
+Alpaca,Open Source Models,StackOverflow,2025-08-25,2025-08-31,47
+Orca,Open Source Models,StackOverflow,2025-08-25,2025-08-31,182
+Mixtral,Open Source Models,StackOverflow,2025-08-25,2025-08-31,30
+Phi,Open Source Models,StackOverflow,2025-08-25,2025-08-31,115
+DeepSeek,Open Source Models,StackOverflow,2025-08-25,2025-08-31,49
+Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,148
+DALL-E,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,98
+MidJourney,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,127
+Runway,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,138
+Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,190
+Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,197
+Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,191
+Kaiber,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,189
+Synthesia,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,105
+Scenario,Image/Video/Audio Generation,StackOverflow,2025-08-25,2025-08-31,74
+Whisper,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,3
+ElevenLabs,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,149
+Hugging Face Audio,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,64
+Descript,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,5
+Play.ht,Speech/Audio,StackOverflow,2025-08-25,2025-08-31,163
+Pinecone,Vector Databases,StackOverflow,2025-08-25,2025-08-31,42
+Weaviate,Vector Databases,StackOverflow,2025-08-25,2025-08-31,73
+Chroma,Vector Databases,StackOverflow,2025-08-25,2025-08-31,146
+Milvus,Vector Databases,StackOverflow,2025-08-25,2025-08-31,102
+Vespa,Vector Databases,StackOverflow,2025-08-25,2025-08-31,38
+Redis Vector,Vector Databases,StackOverflow,2025-08-25,2025-08-31,178
+Qdrant,Vector Databases,StackOverflow,2025-08-25,2025-08-31,106
+LangChain,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,167
+LlamaIndex,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,18
+Haystack,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,113
+DSPy,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,173
+Transformers,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,171
+Diffusers,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,30
+OpenVINO,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,132
+DeepSpeed,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,94
+Accelerate,Frameworks & Libraries,StackOverflow,2025-08-25,2025-08-31,107
+MLflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,67
+Weights & Biases,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,138
+ClearML,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,169
+Kubeflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,138
+Prefect,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,196
+Airflow,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,54
+Ray,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,118
+Flyte,MLOps & Orchestration,StackOverflow,2025-08-25,2025-08-31,196
+Azure AI,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,12
+AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,99
+Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,168
+Cohere,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,131
+AI21 Labs,Cloud AI Platforms,StackOverflow,2025-08-25,2025-08-31,21
+Copilot,Code Generation,StackOverflow,2025-08-25,2025-08-31,100
+CodeWhisperer,Code Generation,StackOverflow,2025-08-25,2025-08-31,20
+Tabnine,Code Generation,StackOverflow,2025-08-25,2025-08-31,121
+Replit AI,Code Generation,StackOverflow,2025-08-25,2025-08-31,170
+AutoGPT,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,195
+BabyAGI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,51
+CrewAI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,159
+Langroid,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,83
+Voyager,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,164
+Devin AI,Productivity / Agents,StackOverflow,2025-08-25,2025-08-31,19
+ChatGPT,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,158
+Claude,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,22
+Gemini,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,67
+Grok,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,190
+Perplexity,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,32
+Mistral,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,131
+LLaMA,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,192
+Command R+,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,181
+Open Assistant,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,176
+Anthropic,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,118
+Pi AI,LLMs & Chatbots,StackOverflow,2025-09-01,2025-09-07,177
+Falcon,Open Source Models,StackOverflow,2025-09-01,2025-09-07,14
+Dolly,Open Source Models,StackOverflow,2025-09-01,2025-09-07,5
+StableLM,Open Source Models,StackOverflow,2025-09-01,2025-09-07,63
+Vicuna,Open Source Models,StackOverflow,2025-09-01,2025-09-07,35
+Alpaca,Open Source Models,StackOverflow,2025-09-01,2025-09-07,192
+Orca,Open Source Models,StackOverflow,2025-09-01,2025-09-07,120
+Mixtral,Open Source Models,StackOverflow,2025-09-01,2025-09-07,122
+Phi,Open Source Models,StackOverflow,2025-09-01,2025-09-07,30
+DeepSeek,Open Source Models,StackOverflow,2025-09-01,2025-09-07,73
+Stable Diffusion,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,32
+DALL-E,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,91
+MidJourney,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,114
+Runway,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,36
+Leonardo AI,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,182
+Pika Labs,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,158
+Gen-2 Runway,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,103
+Kaiber,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,22
+Synthesia,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,26
+Scenario,Image/Video/Audio Generation,StackOverflow,2025-09-01,2025-09-07,98
+Whisper,Speech/Audio,StackOverflow,2025-09-01,2025-09-07,173
+ElevenLabs,Speech/Audio,StackOverflow,2025-09-01,2025-09-07,110
+Hugging Face Audio,Speech/Audio,StackOverflow,2025-09-01,2025-09-07,155
+Descript,Speech/Audio,StackOverflow,2025-09-01,2025-09-07,60
+Play.ht,Speech/Audio,StackOverflow,2025-09-01,2025-09-07,161
+Pinecone,Vector Databases,StackOverflow,2025-09-01,2025-09-07,24
+Weaviate,Vector Databases,StackOverflow,2025-09-01,2025-09-07,44
+Chroma,Vector Databases,StackOverflow,2025-09-01,2025-09-07,189
+Milvus,Vector Databases,StackOverflow,2025-09-01,2025-09-07,92
+Vespa,Vector Databases,StackOverflow,2025-09-01,2025-09-07,116
+Redis Vector,Vector Databases,StackOverflow,2025-09-01,2025-09-07,43
+Qdrant,Vector Databases,StackOverflow,2025-09-01,2025-09-07,175
+LangChain,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,12
+LlamaIndex,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,34
+Haystack,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,181
+DSPy,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,174
+Transformers,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,106
+Diffusers,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,126
+OpenVINO,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,65
+DeepSpeed,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,22
+Accelerate,Frameworks & Libraries,StackOverflow,2025-09-01,2025-09-07,40
+MLflow,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,197
+Weights & Biases,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,171
+ClearML,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,67
+Kubeflow,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,19
+Prefect,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,140
+Airflow,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,90
+Ray,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,16
+Flyte,MLOps & Orchestration,StackOverflow,2025-09-01,2025-09-07,118
+Azure AI,Cloud AI Platforms,StackOverflow,2025-09-01,2025-09-07,177
+AWS Bedrock,Cloud AI Platforms,StackOverflow,2025-09-01,2025-09-07,7
+Google Vertex AI,Cloud AI Platforms,StackOverflow,2025-09-01,2025-09-07,149
+Cohere,Cloud AI Platforms,StackOverflow,2025-09-01,2025-09-07,95
+AI21 Labs,Cloud AI Platforms,StackOverflow,2025-09-01,2025-09-07,78
+Copilot,Code Generation,StackOverflow,2025-09-01,2025-09-07,164
+CodeWhisperer,Code Generation,StackOverflow,2025-09-01,2025-09-07,141
+Tabnine,Code Generation,StackOverflow,2025-09-01,2025-09-07,0
+Replit AI,Code Generation,StackOverflow,2025-09-01,2025-09-07,174
+AutoGPT,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,151
+BabyAGI,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,29
+CrewAI,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,106
+Langroid,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,7
+Voyager,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,117
+Devin AI,Productivity / Agents,StackOverflow,2025-09-01,2025-09-07,125
+ChatGPT,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,1573
+Claude,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,8850
 Gemini,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,850
-Grok,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,3154
+Grok,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,2570
 Perplexity,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,1017
 Mistral,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,125
-LLaMA,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,893
+LLaMA,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,623
 Command R+,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,0
 Open Assistant,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,32
 Anthropic,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,4313
 Pi AI,LLMs & Chatbots,HackerNews,2025-08-11,2025-08-17,0
 Falcon,Open Source Models,HackerNews,2025-08-11,2025-08-17,0
-Dolly,Open Source Models,HackerNews,2025-08-11,2025-08-17,1659
+Dolly,Open Source Models,HackerNews,2025-08-11,2025-08-17,1647
 StableLM,Open Source Models,HackerNews,2025-08-11,2025-08-17,0
 Vicuna,Open Source Models,HackerNews,2025-08-11,2025-08-17,0
 Alpaca,Open Source Models,HackerNews,2025-08-11,2025-08-17,0
 Orca,Open Source Models,HackerNews,2025-08-11,2025-08-17,922
 Mixtral,Open Source Models,HackerNews,2025-08-11,2025-08-17,125
-Phi,Open Source Models,HackerNews,2025-08-11,2025-08-17,19017
+Phi,Open Source Models,HackerNews,2025-08-11,2025-08-17,14997
 DeepSeek,Open Source Models,HackerNews,2025-08-11,2025-08-17,88
 Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,0
-DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,0
+DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,108
 MidJourney,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,2
 Runway,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,22
 Leonardo AI,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,3
 Pika Labs,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,0
 Gen-2 Runway,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,0
 Kaiber,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,0
-Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,251
+Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,61
 Scenario,Image/Video/Audio Generation,HackerNews,2025-08-11,2025-08-17,97
 Whisper,Speech/Audio,HackerNews,2025-08-11,2025-08-17,1844
 ElevenLabs,Speech/Audio,HackerNews,2025-08-11,2025-08-17,22
 Hugging Face Audio,Speech/Audio,HackerNews,2025-08-11,2025-08-17,3
-Descript,Speech/Audio,HackerNews,2025-08-11,2025-08-17,278
+Descript,Speech/Audio,HackerNews,2025-08-11,2025-08-17,266
 Play.ht,Speech/Audio,HackerNews,2025-08-11,2025-08-17,3
 Pinecone,Vector Databases,HackerNews,2025-08-11,2025-08-17,0
 Weaviate,Vector Databases,HackerNews,2025-08-11,2025-08-17,12
@@ -414,19 +340,19 @@ Qdrant,Vector Databases,HackerNews,2025-08-11,2025-08-17,0
 LangChain,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,9
 LlamaIndex,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,8
 Haystack,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,0
-DSPy,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,120
+DSPy,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,107
 Transformers,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,31
-Diffusers,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,0
-OpenVINO,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,25
-DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,8
-Accelerate,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,610
+Diffusers,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,3
+OpenVINO,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,268
+DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,53
+Accelerate,Frameworks & Libraries,HackerNews,2025-08-11,2025-08-17,604
 MLflow,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,0
 Weights & Biases,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,0
 ClearML,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,1155
 Kubeflow,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,0
-Prefect,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,1394
+Prefect,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,2156
 Airflow,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,13
-Ray,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,15517
+Ray,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,12861
 Flyte,MLOps & Orchestration,HackerNews,2025-08-11,2025-08-17,31
 Azure AI,Cloud AI Platforms,HackerNews,2025-08-11,2025-08-17,11
 AWS Bedrock,Cloud AI Platforms,HackerNews,2025-08-11,2025-08-17,13
@@ -437,33 +363,33 @@ Copilot,Code Generation,HackerNews,2025-08-11,2025-08-17,235
 CodeWhisperer,Code Generation,HackerNews,2025-08-11,2025-08-17,0
 Tabnine,Code Generation,HackerNews,2025-08-11,2025-08-17,0
 Replit AI,Code Generation,HackerNews,2025-08-11,2025-08-17,0
-AutoGPT,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,0
+AutoGPT,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,3093
 BabyAGI,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,88
 CrewAI,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,0
-Langroid,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,996
+Langroid,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,0
 Voyager,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,122
 Devin AI,Productivity / Agents,HackerNews,2025-08-11,2025-08-17,114
-ChatGPT,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,1199
-Claude,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,2710
-Gemini,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,493
-Grok,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,3732
-Perplexity,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,204
-Mistral,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,1233
-LLaMA,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,622
+ChatGPT,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,1200
+Claude,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,2724
+Gemini,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,509
+Grok,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,3752
+Perplexity,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,205
+Mistral,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,685
+LLaMA,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,624
 Command R+,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,0
 Open Assistant,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,213
-Anthropic,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,154
+Anthropic,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,182
 Pi AI,LLMs & Chatbots,HackerNews,2025-08-18,2025-08-24,14
 Falcon,Open Source Models,HackerNews,2025-08-18,2025-08-24,4
-Dolly,Open Source Models,HackerNews,2025-08-18,2025-08-24,1245
+Dolly,Open Source Models,HackerNews,2025-08-18,2025-08-24,1294
 StableLM,Open Source Models,HackerNews,2025-08-18,2025-08-24,3
 Vicuna,Open Source Models,HackerNews,2025-08-18,2025-08-24,0
 Alpaca,Open Source Models,HackerNews,2025-08-18,2025-08-24,0
-Orca,Open Source Models,HackerNews,2025-08-18,2025-08-24,733
+Orca,Open Source Models,HackerNews,2025-08-18,2025-08-24,764
 Mixtral,Open Source Models,HackerNews,2025-08-18,2025-08-24,258
-Phi,Open Source Models,HackerNews,2025-08-18,2025-08-24,19644
-DeepSeek,Open Source Models,HackerNews,2025-08-18,2025-08-24,1286
-Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,14
+Phi,Open Source Models,HackerNews,2025-08-18,2025-08-24,15605
+DeepSeek,Open Source Models,HackerNews,2025-08-18,2025-08-24,1293
+Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,11
 DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,0
 MidJourney,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,12
 Runway,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,3
@@ -471,16 +397,16 @@ Leonardo AI,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,0
 Pika Labs,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,0
 Gen-2 Runway,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,0
 Kaiber,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,0
-Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,177
-Scenario,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,311
-Whisper,Speech/Audio,HackerNews,2025-08-18,2025-08-24,788
-ElevenLabs,Speech/Audio,HackerNews,2025-08-18,2025-08-24,752
+Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,178
+Scenario,Image/Video/Audio Generation,HackerNews,2025-08-18,2025-08-24,312
+Whisper,Speech/Audio,HackerNews,2025-08-18,2025-08-24,790
+ElevenLabs,Speech/Audio,HackerNews,2025-08-18,2025-08-24,753
 Hugging Face Audio,Speech/Audio,HackerNews,2025-08-18,2025-08-24,0
-Descript,Speech/Audio,HackerNews,2025-08-18,2025-08-24,122
+Descript,Speech/Audio,HackerNews,2025-08-18,2025-08-24,45
 Play.ht,Speech/Audio,HackerNews,2025-08-18,2025-08-24,3
 Pinecone,Vector Databases,HackerNews,2025-08-18,2025-08-24,49
 Weaviate,Vector Databases,HackerNews,2025-08-18,2025-08-24,3
-Chroma,Vector Databases,HackerNews,2025-08-18,2025-08-24,511
+Chroma,Vector Databases,HackerNews,2025-08-18,2025-08-24,513
 Milvus,Vector Databases,HackerNews,2025-08-18,2025-08-24,0
 Vespa,Vector Databases,HackerNews,2025-08-18,2025-08-24,0
 Redis Vector,Vector Databases,HackerNews,2025-08-18,2025-08-24,0
@@ -488,898 +414,972 @@ Qdrant,Vector Databases,HackerNews,2025-08-18,2025-08-24,0
 LangChain,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
 LlamaIndex,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
 Haystack,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
-DSPy,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,71
-Transformers,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,287
+DSPy,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,48
+Transformers,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,290
 Diffusers,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
 OpenVINO,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
-DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,0
-Accelerate,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,602
+DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,1040
+Accelerate,Frameworks & Libraries,HackerNews,2025-08-18,2025-08-24,603
 MLflow,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,0
 Weights & Biases,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,134
-ClearML,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,630
+ClearML,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,1039
 Kubeflow,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,0
-Prefect,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,2938
+Prefect,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,2375
 Airflow,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,0
-Ray,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,15556
-Flyte,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,581
+Ray,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,11806
+Flyte,MLOps & Orchestration,HackerNews,2025-08-18,2025-08-24,583
 Azure AI,Cloud AI Platforms,HackerNews,2025-08-18,2025-08-24,3
 AWS Bedrock,Cloud AI Platforms,HackerNews,2025-08-18,2025-08-24,0
 Google Vertex AI,Cloud AI Platforms,HackerNews,2025-08-18,2025-08-24,0
 Cohere,Cloud AI Platforms,HackerNews,2025-08-18,2025-08-24,85
 AI21 Labs,Cloud AI Platforms,HackerNews,2025-08-18,2025-08-24,0
-Copilot,Code Generation,HackerNews,2025-08-18,2025-08-24,1670
+Copilot,Code Generation,HackerNews,2025-08-18,2025-08-24,1675
 CodeWhisperer,Code Generation,HackerNews,2025-08-18,2025-08-24,0
 Tabnine,Code Generation,HackerNews,2025-08-18,2025-08-24,3
 Replit AI,Code Generation,HackerNews,2025-08-18,2025-08-24,3
-AutoGPT,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,136
+AutoGPT,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,0
 BabyAGI,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,3
 CrewAI,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,0
-Langroid,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,0
+Langroid,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,42
 Voyager,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,12
 Devin AI,Productivity / Agents,HackerNews,2025-08-18,2025-08-24,9
-ChatGPT,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,2218
-Claude,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,2396
-Gemini,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,2048
-Grok,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,1811
-Perplexity,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,44
-Mistral,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,132
-LLaMA,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,245
+ChatGPT,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,3943
+Claude,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,5819
+Gemini,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,2321
+Grok,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,4168
+Perplexity,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,140
+Mistral,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,853
+LLaMA,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,244
 Command R+,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,0
-Open Assistant,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,27
-Anthropic,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,1305
-Pi AI,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,5
-Falcon,Open Source Models,HackerNews,2025-08-25,2025-08-31,0
-Dolly,Open Source Models,HackerNews,2025-08-25,2025-08-31,596
-StableLM,Open Source Models,HackerNews,2025-08-25,2025-08-31,33
+Open Assistant,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,112
+Anthropic,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,4837
+Pi AI,LLMs & Chatbots,HackerNews,2025-08-25,2025-08-31,34
+Falcon,Open Source Models,HackerNews,2025-08-25,2025-08-31,6
+Dolly,Open Source Models,HackerNews,2025-08-25,2025-08-31,706
+StableLM,Open Source Models,HackerNews,2025-08-25,2025-08-31,16
 Vicuna,Open Source Models,HackerNews,2025-08-25,2025-08-31,4
 Alpaca,Open Source Models,HackerNews,2025-08-25,2025-08-31,4
-Orca,Open Source Models,HackerNews,2025-08-25,2025-08-31,831
-Mixtral,Open Source Models,HackerNews,2025-08-25,2025-08-31,26
-Phi,Open Source Models,HackerNews,2025-08-25,2025-08-31,13286
-DeepSeek,Open Source Models,HackerNews,2025-08-25,2025-08-31,40
-Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
-DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,10
+Orca,Open Source Models,HackerNews,2025-08-25,2025-08-31,1501
+Mixtral,Open Source Models,HackerNews,2025-08-25,2025-08-31,42
+Phi,Open Source Models,HackerNews,2025-08-25,2025-08-31,30909
+DeepSeek,Open Source Models,HackerNews,2025-08-25,2025-08-31,454
+Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,2
+DALL-E,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,46
 MidJourney,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,3
 Runway,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
 Leonardo AI,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
 Pika Labs,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
 Gen-2 Runway,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
-Kaiber,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,0
-Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,20
-Scenario,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,16
-Whisper,Speech/Audio,HackerNews,2025-08-25,2025-08-31,36
-ElevenLabs,Speech/Audio,HackerNews,2025-08-25,2025-08-31,200
+Kaiber,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,4
+Synthesia,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,225
+Scenario,Image/Video/Audio Generation,HackerNews,2025-08-25,2025-08-31,30
+Whisper,Speech/Audio,HackerNews,2025-08-25,2025-08-31,43
+ElevenLabs,Speech/Audio,HackerNews,2025-08-25,2025-08-31,225
 Hugging Face Audio,Speech/Audio,HackerNews,2025-08-25,2025-08-31,11
-Descript,Speech/Audio,HackerNews,2025-08-25,2025-08-31,132
+Descript,Speech/Audio,HackerNews,2025-08-25,2025-08-31,241
 Play.ht,Speech/Audio,HackerNews,2025-08-25,2025-08-31,0
-Pinecone,Vector Databases,HackerNews,2025-08-25,2025-08-31,3
-Weaviate,Vector Databases,HackerNews,2025-08-25,2025-08-31,3
-Chroma,Vector Databases,HackerNews,2025-08-25,2025-08-31,2807
+Pinecone,Vector Databases,HackerNews,2025-08-25,2025-08-31,348
+Weaviate,Vector Databases,HackerNews,2025-08-25,2025-08-31,7
+Chroma,Vector Databases,HackerNews,2025-08-25,2025-08-31,2976
 Milvus,Vector Databases,HackerNews,2025-08-25,2025-08-31,15
-Vespa,Vector Databases,HackerNews,2025-08-25,2025-08-31,4
+Vespa,Vector Databases,HackerNews,2025-08-25,2025-08-31,126
 Redis Vector,Vector Databases,HackerNews,2025-08-25,2025-08-31,3
-Qdrant,Vector Databases,HackerNews,2025-08-25,2025-08-31,2
-LangChain,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
-LlamaIndex,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
+Qdrant,Vector Databases,HackerNews,2025-08-25,2025-08-31,8
+LangChain,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,9
+LlamaIndex,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,5
 Haystack,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
-DSPy,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,38
-Transformers,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,22
-Diffusers,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
+DSPy,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,109
+Transformers,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,134
+Diffusers,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,4
 OpenVINO,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
-DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,0
-Accelerate,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,47
+DeepSpeed,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,359
+Accelerate,Frameworks & Libraries,HackerNews,2025-08-25,2025-08-31,150
 MLflow,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,0
-Weights & Biases,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,0
-ClearML,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,108
-Kubeflow,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,2
-Prefect,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,2928
-Airflow,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,52
-Ray,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,7616
-Flyte,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,0
+Weights & Biases,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,7
+ClearML,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,635
+Kubeflow,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,136
+Prefect,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,2769
+Airflow,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,0
+Ray,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,12497
+Flyte,MLOps & Orchestration,HackerNews,2025-08-25,2025-08-31,8
 Azure AI,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,2
 AWS Bedrock,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,0
 Google Vertex AI,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,0
-Cohere,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,25
+Cohere,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,68
 AI21 Labs,Cloud AI Platforms,HackerNews,2025-08-25,2025-08-31,0
-Copilot,Code Generation,HackerNews,2025-08-25,2025-08-31,823
+Copilot,Code Generation,HackerNews,2025-08-25,2025-08-31,991
 CodeWhisperer,Code Generation,HackerNews,2025-08-25,2025-08-31,0
 Tabnine,Code Generation,HackerNews,2025-08-25,2025-08-31,0
-Replit AI,Code Generation,HackerNews,2025-08-25,2025-08-31,56
-AutoGPT,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,789
-BabyAGI,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,7
+Replit AI,Code Generation,HackerNews,2025-08-25,2025-08-31,58
+AutoGPT,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,1179
+BabyAGI,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,0
 CrewAI,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,0
-Langroid,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,7106
-Voyager,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,10
-Devin AI,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,0
-ollama,Other,GitHub,2025-08-04,2025-08-10,151084
-transformers,Other,GitHub,2025-08-04,2025-08-10,148907
-langchain,Other,GitHub,2025-08-04,2025-08-10,114346
-dify,Other,GitHub,2025-08-04,2025-08-10,112296
-open-webui,Other,GitHub,2025-08-04,2025-08-10,108143
-browser-use,Other,GitHub,2025-08-04,2025-08-10,68778
-LLMs-from-scratch,Other,GitHub,2025-08-04,2025-08-10,67581
-ragflow,Other,GitHub,2025-08-04,2025-08-10,63218
-OpenHands,Other,GitHub,2025-08-04,2025-08-10,62626
-llm-course,Other,GitHub,2025-08-04,2025-08-10,60447
-MetaGPT,Other,GitHub,2025-08-04,2025-08-10,58125
-LLaMA-Factory,Other,GitHub,2025-08-04,2025-08-10,56859
-vllm,Other,GitHub,2025-08-04,2025-08-10,56508
-firecrawl,Other,GitHub,2025-08-04,2025-08-10,52715
-anything-llm,Other,GitHub,2025-08-04,2025-08-10,48395
-unsloth,Other,GitHub,2025-08-04,2025-08-10,44740
-llama_index,Other,GitHub,2025-08-04,2025-08-10,43927
-Pake,Other,GitHub,2025-08-04,2025-08-10,41741
-mem0,Other,GitHub,2025-08-04,2025-08-10,38813
-ray,Other,GitHub,2025-08-04,2025-08-10,38677
-chatgpt-on-wechat,Other,GitHub,2025-08-04,2025-08-10,38631
-quivr,Other,GitHub,2025-08-04,2025-08-10,38354
-ChatTTS,Other,GitHub,2025-08-04,2025-08-10,37656
-milvus,Other,GitHub,2025-08-04,2025-08-10,36836
-Langchain-Chatchat,Other,GitHub,2025-08-04,2025-08-10,35967
-LocalAI,Other,GitHub,2025-08-04,2025-08-10,34886
-cherry-studio,Other,GitHub,2025-08-04,2025-08-10,32224
-khoj,Other,GitHub,2025-08-04,2025-08-10,30810
-llm-app,Other,GitHub,2025-08-04,2025-08-10,30206
-Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-04,2025-08-10,29625
-continue,Other,GitHub,2025-08-04,2025-08-10,28620
-litellm,Other,GitHub,2025-08-04,2025-08-10,28040
-context7,Other,GitHub,2025-08-04,2025-08-10,27695
-graphrag,Other,GitHub,2025-08-04,2025-08-10,27541
-void,Other,GitHub,2025-08-04,2025-08-10,26779
-semantic-kernel,Other,GitHub,2025-08-04,2025-08-10,25948
-composio,Other,GitHub,2025-08-04,2025-08-10,25673
-FastGPT,Other,GitHub,2025-08-04,2025-08-10,25634
-self-llm,Other,GitHub,2025-08-04,2025-08-10,23661
-gin-vue-admin,Other,GitHub,2025-08-04,2025-08-10,23413
-gitleaks,Other,GitHub,2025-08-04,2025-08-10,23052
-CopilotKit,Other,GitHub,2025-08-04,2025-08-10,22628
-chroma,Other,GitHub,2025-08-04,2025-08-10,22196
-haystack,Other,GitHub,2025-08-04,2025-08-10,22041
-pandas-ai,Other,GitHub,2025-08-04,2025-08-10,21898
-unilm,Other,GitHub,2025-08-04,2025-08-10,21671
-agenticSeek,Other,GitHub,2025-08-04,2025-08-10,21534
-mlc-llm,Other,GitHub,2025-08-04,2025-08-10,21188
-Scrapegraph-ai,Other,GitHub,2025-08-04,2025-08-10,21140
-Awesome-Chinese-LLM,Other,GitHub,2025-08-04,2025-08-10,21056
-ollama,Other,GitHub,2025-08-11,2025-08-17,151084
-transformers,Other,GitHub,2025-08-11,2025-08-17,148907
-langchain,Other,GitHub,2025-08-11,2025-08-17,114346
-dify,Other,GitHub,2025-08-11,2025-08-17,112296
-open-webui,Other,GitHub,2025-08-11,2025-08-17,108143
-browser-use,Other,GitHub,2025-08-11,2025-08-17,68778
-LLMs-from-scratch,Other,GitHub,2025-08-11,2025-08-17,67581
-ragflow,Other,GitHub,2025-08-11,2025-08-17,63218
-OpenHands,Other,GitHub,2025-08-11,2025-08-17,62626
-llm-course,Other,GitHub,2025-08-11,2025-08-17,60447
-MetaGPT,Other,GitHub,2025-08-11,2025-08-17,58125
-LLaMA-Factory,Other,GitHub,2025-08-11,2025-08-17,56859
-vllm,Other,GitHub,2025-08-11,2025-08-17,56508
-firecrawl,Other,GitHub,2025-08-11,2025-08-17,52715
-anything-llm,Other,GitHub,2025-08-11,2025-08-17,48395
-unsloth,Other,GitHub,2025-08-11,2025-08-17,44740
-llama_index,Other,GitHub,2025-08-11,2025-08-17,43927
-Pake,Other,GitHub,2025-08-11,2025-08-17,41741
-mem0,Other,GitHub,2025-08-11,2025-08-17,38813
-ray,Other,GitHub,2025-08-11,2025-08-17,38677
-chatgpt-on-wechat,Other,GitHub,2025-08-11,2025-08-17,38631
-quivr,Other,GitHub,2025-08-11,2025-08-17,38354
-ChatTTS,Other,GitHub,2025-08-11,2025-08-17,37656
-milvus,Other,GitHub,2025-08-11,2025-08-17,36836
-Langchain-Chatchat,Other,GitHub,2025-08-11,2025-08-17,35967
-LocalAI,Other,GitHub,2025-08-11,2025-08-17,34886
-cherry-studio,Other,GitHub,2025-08-11,2025-08-17,32224
-khoj,Other,GitHub,2025-08-11,2025-08-17,30810
-llm-app,Other,GitHub,2025-08-11,2025-08-17,30206
-Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-11,2025-08-17,29625
-continue,Other,GitHub,2025-08-11,2025-08-17,28620
-litellm,Other,GitHub,2025-08-11,2025-08-17,28040
-context7,Other,GitHub,2025-08-11,2025-08-17,27695
-graphrag,Other,GitHub,2025-08-11,2025-08-17,27541
-void,Other,GitHub,2025-08-11,2025-08-17,26779
-semantic-kernel,Other,GitHub,2025-08-11,2025-08-17,25948
-composio,Other,GitHub,2025-08-11,2025-08-17,25673
-FastGPT,Other,GitHub,2025-08-11,2025-08-17,25634
-self-llm,Other,GitHub,2025-08-11,2025-08-17,23661
-gin-vue-admin,Other,GitHub,2025-08-11,2025-08-17,23413
-gitleaks,Other,GitHub,2025-08-11,2025-08-17,23052
-CopilotKit,Other,GitHub,2025-08-11,2025-08-17,22628
-chroma,Other,GitHub,2025-08-11,2025-08-17,22196
-haystack,Other,GitHub,2025-08-11,2025-08-17,22041
-pandas-ai,Other,GitHub,2025-08-11,2025-08-17,21898
-unilm,Other,GitHub,2025-08-11,2025-08-17,21671
-agenticSeek,Other,GitHub,2025-08-11,2025-08-17,21534
-mlc-llm,Other,GitHub,2025-08-11,2025-08-17,21188
-Scrapegraph-ai,Other,GitHub,2025-08-11,2025-08-17,21140
-Awesome-Chinese-LLM,Other,GitHub,2025-08-11,2025-08-17,21056
-ollama,Other,GitHub,2025-08-18,2025-08-24,151084
-transformers,Other,GitHub,2025-08-18,2025-08-24,148907
-langchain,Other,GitHub,2025-08-18,2025-08-24,114346
-dify,Other,GitHub,2025-08-18,2025-08-24,112296
-open-webui,Other,GitHub,2025-08-18,2025-08-24,108143
-browser-use,Other,GitHub,2025-08-18,2025-08-24,68778
-LLMs-from-scratch,Other,GitHub,2025-08-18,2025-08-24,67581
-ragflow,Other,GitHub,2025-08-18,2025-08-24,63218
-OpenHands,Other,GitHub,2025-08-18,2025-08-24,62626
-llm-course,Other,GitHub,2025-08-18,2025-08-24,60447
-MetaGPT,Other,GitHub,2025-08-18,2025-08-24,58125
-LLaMA-Factory,Other,GitHub,2025-08-18,2025-08-24,56859
-vllm,Other,GitHub,2025-08-18,2025-08-24,56508
-firecrawl,Other,GitHub,2025-08-18,2025-08-24,52715
-anything-llm,Other,GitHub,2025-08-18,2025-08-24,48395
-unsloth,Other,GitHub,2025-08-18,2025-08-24,44740
-llama_index,Other,GitHub,2025-08-18,2025-08-24,43927
-Pake,Other,GitHub,2025-08-18,2025-08-24,41741
-mem0,Other,GitHub,2025-08-18,2025-08-24,38813
-ray,Other,GitHub,2025-08-18,2025-08-24,38677
-chatgpt-on-wechat,Other,GitHub,2025-08-18,2025-08-24,38631
-quivr,Other,GitHub,2025-08-18,2025-08-24,38354
-ChatTTS,Other,GitHub,2025-08-18,2025-08-24,37656
-milvus,Other,GitHub,2025-08-18,2025-08-24,36836
-Langchain-Chatchat,Other,GitHub,2025-08-18,2025-08-24,35967
-LocalAI,Other,GitHub,2025-08-18,2025-08-24,34886
-cherry-studio,Other,GitHub,2025-08-18,2025-08-24,32224
-khoj,Other,GitHub,2025-08-18,2025-08-24,30810
-llm-app,Other,GitHub,2025-08-18,2025-08-24,30206
-Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-18,2025-08-24,29625
-continue,Other,GitHub,2025-08-18,2025-08-24,28620
-litellm,Other,GitHub,2025-08-18,2025-08-24,28040
-context7,Other,GitHub,2025-08-18,2025-08-24,27695
-graphrag,Other,GitHub,2025-08-18,2025-08-24,27541
-void,Other,GitHub,2025-08-18,2025-08-24,26779
-semantic-kernel,Other,GitHub,2025-08-18,2025-08-24,25948
-composio,Other,GitHub,2025-08-18,2025-08-24,25673
-FastGPT,Other,GitHub,2025-08-18,2025-08-24,25634
-self-llm,Other,GitHub,2025-08-18,2025-08-24,23661
-gin-vue-admin,Other,GitHub,2025-08-18,2025-08-24,23413
-gitleaks,Other,GitHub,2025-08-18,2025-08-24,23052
-CopilotKit,Other,GitHub,2025-08-18,2025-08-24,22628
-chroma,Other,GitHub,2025-08-18,2025-08-24,22196
-haystack,Other,GitHub,2025-08-18,2025-08-24,22041
-pandas-ai,Other,GitHub,2025-08-18,2025-08-24,21898
-unilm,Other,GitHub,2025-08-18,2025-08-24,21671
-agenticSeek,Other,GitHub,2025-08-18,2025-08-24,21534
-mlc-llm,Other,GitHub,2025-08-18,2025-08-24,21188
-Scrapegraph-ai,Other,GitHub,2025-08-18,2025-08-24,21140
-Awesome-Chinese-LLM,Other,GitHub,2025-08-18,2025-08-24,21056
-ollama,Other,GitHub,2025-08-25,2025-08-31,151084
-transformers,Other,GitHub,2025-08-25,2025-08-31,148907
-langchain,Other,GitHub,2025-08-25,2025-08-31,114346
-dify,Other,GitHub,2025-08-25,2025-08-31,112296
-open-webui,Other,GitHub,2025-08-25,2025-08-31,108143
-browser-use,Other,GitHub,2025-08-25,2025-08-31,68778
-LLMs-from-scratch,Other,GitHub,2025-08-25,2025-08-31,67581
-ragflow,Other,GitHub,2025-08-25,2025-08-31,63218
-OpenHands,Other,GitHub,2025-08-25,2025-08-31,62626
-llm-course,Other,GitHub,2025-08-25,2025-08-31,60447
-MetaGPT,Other,GitHub,2025-08-25,2025-08-31,58125
-LLaMA-Factory,Other,GitHub,2025-08-25,2025-08-31,56859
-vllm,Other,GitHub,2025-08-25,2025-08-31,56508
-firecrawl,Other,GitHub,2025-08-25,2025-08-31,52715
-anything-llm,Other,GitHub,2025-08-25,2025-08-31,48395
-unsloth,Other,GitHub,2025-08-25,2025-08-31,44740
-llama_index,Other,GitHub,2025-08-25,2025-08-31,43927
-Pake,Other,GitHub,2025-08-25,2025-08-31,41741
-mem0,Other,GitHub,2025-08-25,2025-08-31,38813
-ray,Other,GitHub,2025-08-25,2025-08-31,38677
-chatgpt-on-wechat,Other,GitHub,2025-08-25,2025-08-31,38631
-quivr,Other,GitHub,2025-08-25,2025-08-31,38354
-ChatTTS,Other,GitHub,2025-08-25,2025-08-31,37656
-milvus,Other,GitHub,2025-08-25,2025-08-31,36836
-Langchain-Chatchat,Other,GitHub,2025-08-25,2025-08-31,35967
-LocalAI,Other,GitHub,2025-08-25,2025-08-31,34886
-cherry-studio,Other,GitHub,2025-08-25,2025-08-31,32224
-khoj,Other,GitHub,2025-08-25,2025-08-31,30810
-llm-app,Other,GitHub,2025-08-25,2025-08-31,30206
-Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-25,2025-08-31,29625
-continue,Other,GitHub,2025-08-25,2025-08-31,28620
-litellm,Other,GitHub,2025-08-25,2025-08-31,28040
-context7,Other,GitHub,2025-08-25,2025-08-31,27695
-graphrag,Other,GitHub,2025-08-25,2025-08-31,27541
-void,Other,GitHub,2025-08-25,2025-08-31,26779
-semantic-kernel,Other,GitHub,2025-08-25,2025-08-31,25948
-composio,Other,GitHub,2025-08-25,2025-08-31,25673
-FastGPT,Other,GitHub,2025-08-25,2025-08-31,25634
-self-llm,Other,GitHub,2025-08-25,2025-08-31,23661
-gin-vue-admin,Other,GitHub,2025-08-25,2025-08-31,23413
-gitleaks,Other,GitHub,2025-08-25,2025-08-31,23052
-CopilotKit,Other,GitHub,2025-08-25,2025-08-31,22628
-chroma,Other,GitHub,2025-08-25,2025-08-31,22196
-haystack,Other,GitHub,2025-08-25,2025-08-31,22041
-pandas-ai,Other,GitHub,2025-08-25,2025-08-31,21898
-unilm,Other,GitHub,2025-08-25,2025-08-31,21671
-agenticSeek,Other,GitHub,2025-08-25,2025-08-31,21534
-mlc-llm,Other,GitHub,2025-08-25,2025-08-31,21188
-Scrapegraph-ai,Other,GitHub,2025-08-25,2025-08-31,21140
-Awesome-Chinese-LLM,Other,GitHub,2025-08-25,2025-08-31,21056
-ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,134
-Claude,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,81
-Gemini,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,22
-Grok,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,138
-Perplexity,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,37
-Mistral,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,148
-LLaMA,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,127
-Command R+,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,148
-Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,92
-Anthropic,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,98
-Pi AI,LLMs & Chatbots,ProductHunt,2025-08-04,2025-08-10,42
-Falcon,Open Source Models,ProductHunt,2025-08-04,2025-08-10,11
-Dolly,Open Source Models,ProductHunt,2025-08-04,2025-08-10,137
-StableLM,Open Source Models,ProductHunt,2025-08-04,2025-08-10,20
-Vicuna,Open Source Models,ProductHunt,2025-08-04,2025-08-10,105
-Alpaca,Open Source Models,ProductHunt,2025-08-04,2025-08-10,10
-Orca,Open Source Models,ProductHunt,2025-08-04,2025-08-10,16
-Mixtral,Open Source Models,ProductHunt,2025-08-04,2025-08-10,33
-Phi,Open Source Models,ProductHunt,2025-08-04,2025-08-10,95
-DeepSeek,Open Source Models,ProductHunt,2025-08-04,2025-08-10,102
-Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,37
-DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,70
-MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,39
-Runway,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,57
-Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,69
-Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,61
-Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,46
-Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,85
-Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,106
-Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-04,2025-08-10,30
-Whisper,Speech/Audio,ProductHunt,2025-08-04,2025-08-10,64
-ElevenLabs,Speech/Audio,ProductHunt,2025-08-04,2025-08-10,149
-Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-04,2025-08-10,41
-Descript,Speech/Audio,ProductHunt,2025-08-04,2025-08-10,149
-Play.ht,Speech/Audio,ProductHunt,2025-08-04,2025-08-10,115
-Pinecone,Vector Databases,ProductHunt,2025-08-04,2025-08-10,133
-Weaviate,Vector Databases,ProductHunt,2025-08-04,2025-08-10,5
-Chroma,Vector Databases,ProductHunt,2025-08-04,2025-08-10,88
-Milvus,Vector Databases,ProductHunt,2025-08-04,2025-08-10,70
-Vespa,Vector Databases,ProductHunt,2025-08-04,2025-08-10,37
-Redis Vector,Vector Databases,ProductHunt,2025-08-04,2025-08-10,98
-Qdrant,Vector Databases,ProductHunt,2025-08-04,2025-08-10,22
-LangChain,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,9
-LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,96
-Haystack,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,30
-DSPy,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,137
-Transformers,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,61
-Diffusers,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,51
-OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,3
-DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,107
-Accelerate,Frameworks & Libraries,ProductHunt,2025-08-04,2025-08-10,105
-MLflow,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,108
-Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,87
-ClearML,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,141
-Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,52
-Prefect,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,100
-Airflow,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,29
-Ray,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,100
-Flyte,MLOps & Orchestration,ProductHunt,2025-08-04,2025-08-10,109
-Azure AI,Cloud AI Platforms,ProductHunt,2025-08-04,2025-08-10,85
-AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-04,2025-08-10,18
-Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-04,2025-08-10,102
-Cohere,Cloud AI Platforms,ProductHunt,2025-08-04,2025-08-10,123
-AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-04,2025-08-10,70
-Copilot,Code Generation,ProductHunt,2025-08-04,2025-08-10,24
-CodeWhisperer,Code Generation,ProductHunt,2025-08-04,2025-08-10,121
-Tabnine,Code Generation,ProductHunt,2025-08-04,2025-08-10,19
-Replit AI,Code Generation,ProductHunt,2025-08-04,2025-08-10,69
-AutoGPT,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,64
-BabyAGI,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,126
-CrewAI,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,47
-Langroid,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,64
-Voyager,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,86
-Devin AI,Productivity / Agents,ProductHunt,2025-08-04,2025-08-10,81
-ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,71
-Claude,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,120
-Gemini,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,85
-Grok,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,2
-Perplexity,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,61
-Mistral,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,33
-LLaMA,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,107
-Command R+,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,21
-Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,148
-Anthropic,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,34
-Pi AI,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,75
-Falcon,Open Source Models,ProductHunt,2025-08-11,2025-08-17,15
-Dolly,Open Source Models,ProductHunt,2025-08-11,2025-08-17,72
-StableLM,Open Source Models,ProductHunt,2025-08-11,2025-08-17,36
-Vicuna,Open Source Models,ProductHunt,2025-08-11,2025-08-17,68
-Alpaca,Open Source Models,ProductHunt,2025-08-11,2025-08-17,46
-Orca,Open Source Models,ProductHunt,2025-08-11,2025-08-17,56
-Mixtral,Open Source Models,ProductHunt,2025-08-11,2025-08-17,141
-Phi,Open Source Models,ProductHunt,2025-08-11,2025-08-17,64
-DeepSeek,Open Source Models,ProductHunt,2025-08-11,2025-08-17,70
-Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,83
-DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,60
-MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,128
-Runway,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,142
-Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,35
-Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,127
-Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,100
-Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,23
-Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,30
-Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,66
-Whisper,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,8
-ElevenLabs,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,26
-Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,124
-Descript,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,79
-Play.ht,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,33
-Pinecone,Vector Databases,ProductHunt,2025-08-11,2025-08-17,8
-Weaviate,Vector Databases,ProductHunt,2025-08-11,2025-08-17,78
-Chroma,Vector Databases,ProductHunt,2025-08-11,2025-08-17,69
-Milvus,Vector Databases,ProductHunt,2025-08-11,2025-08-17,77
-Vespa,Vector Databases,ProductHunt,2025-08-11,2025-08-17,20
-Redis Vector,Vector Databases,ProductHunt,2025-08-11,2025-08-17,49
-Qdrant,Vector Databases,ProductHunt,2025-08-11,2025-08-17,113
-LangChain,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,48
-LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,59
-Haystack,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,121
-DSPy,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,66
-Transformers,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,93
-Diffusers,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,23
-OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,113
-DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,16
-Accelerate,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,129
-MLflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,117
-Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,39
-ClearML,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,9
-Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,147
-Prefect,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,137
-Airflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,66
-Ray,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,86
-Flyte,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,86
-Azure AI,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,107
-AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,99
-Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,85
-Cohere,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,80
-AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,64
-Copilot,Code Generation,ProductHunt,2025-08-11,2025-08-17,19
-CodeWhisperer,Code Generation,ProductHunt,2025-08-11,2025-08-17,76
-Tabnine,Code Generation,ProductHunt,2025-08-11,2025-08-17,82
-Replit AI,Code Generation,ProductHunt,2025-08-11,2025-08-17,49
-AutoGPT,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,34
-BabyAGI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,16
-CrewAI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,85
-Langroid,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,19
-Voyager,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,30
-Devin AI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,44
-ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,45
-Claude,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,139
-Gemini,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,133
-Grok,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,79
-Perplexity,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,84
-Mistral,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,85
-LLaMA,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,29
-Command R+,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,26
-Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,83
-Anthropic,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,25
-Pi AI,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,115
-Falcon,Open Source Models,ProductHunt,2025-08-18,2025-08-24,72
-Dolly,Open Source Models,ProductHunt,2025-08-18,2025-08-24,96
-StableLM,Open Source Models,ProductHunt,2025-08-18,2025-08-24,133
-Vicuna,Open Source Models,ProductHunt,2025-08-18,2025-08-24,106
-Alpaca,Open Source Models,ProductHunt,2025-08-18,2025-08-24,55
-Orca,Open Source Models,ProductHunt,2025-08-18,2025-08-24,7
-Mixtral,Open Source Models,ProductHunt,2025-08-18,2025-08-24,62
-Phi,Open Source Models,ProductHunt,2025-08-18,2025-08-24,52
-DeepSeek,Open Source Models,ProductHunt,2025-08-18,2025-08-24,36
-Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,9
-DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,3
-MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,43
-Runway,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,83
-Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,1
-Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,138
-Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,13
-Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,146
-Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,140
-Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,17
-Whisper,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,120
-ElevenLabs,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,24
-Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,128
-Descript,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,29
-Play.ht,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,1
-Pinecone,Vector Databases,ProductHunt,2025-08-18,2025-08-24,17
-Weaviate,Vector Databases,ProductHunt,2025-08-18,2025-08-24,9
-Chroma,Vector Databases,ProductHunt,2025-08-18,2025-08-24,28
-Milvus,Vector Databases,ProductHunt,2025-08-18,2025-08-24,101
-Vespa,Vector Databases,ProductHunt,2025-08-18,2025-08-24,98
+Langroid,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,6909
+Voyager,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,14
+Devin AI,Productivity / Agents,HackerNews,2025-08-25,2025-08-31,11
+ChatGPT,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,25
+Claude,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,14
+Gemini,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,13
+Grok,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,13
+Perplexity,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,0
+Mistral,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,34
+LLaMA,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,2
+Command R+,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,0
+Open Assistant,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,0
+Anthropic,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,20
+Pi AI,LLMs & Chatbots,HackerNews,2025-09-01,2025-09-07,0
+Falcon,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Dolly,Open Source Models,HackerNews,2025-09-01,2025-09-07,4
+StableLM,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Vicuna,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Alpaca,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Orca,Open Source Models,HackerNews,2025-09-01,2025-09-07,10
+Mixtral,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Phi,Open Source Models,HackerNews,2025-09-01,2025-09-07,670
+DeepSeek,Open Source Models,HackerNews,2025-09-01,2025-09-07,0
+Stable Diffusion,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+DALL-E,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+MidJourney,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Runway,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Leonardo AI,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Pika Labs,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Gen-2 Runway,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Kaiber,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Synthesia,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Scenario,Image/Video/Audio Generation,HackerNews,2025-09-01,2025-09-07,0
+Whisper,Speech/Audio,HackerNews,2025-09-01,2025-09-07,0
+ElevenLabs,Speech/Audio,HackerNews,2025-09-01,2025-09-07,0
+Hugging Face Audio,Speech/Audio,HackerNews,2025-09-01,2025-09-07,0
+Descript,Speech/Audio,HackerNews,2025-09-01,2025-09-07,2
+Play.ht,Speech/Audio,HackerNews,2025-09-01,2025-09-07,0
+Pinecone,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+Weaviate,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+Chroma,Vector Databases,HackerNews,2025-09-01,2025-09-07,6
+Milvus,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+Vespa,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+Redis Vector,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+Qdrant,Vector Databases,HackerNews,2025-09-01,2025-09-07,0
+LangChain,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+LlamaIndex,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+Haystack,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+DSPy,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+Transformers,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+Diffusers,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+OpenVINO,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+DeepSpeed,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+Accelerate,Frameworks & Libraries,HackerNews,2025-09-01,2025-09-07,0
+MLflow,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,0
+Weights & Biases,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,0
+ClearML,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,2
+Kubeflow,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,0
+Prefect,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,45
+Airflow,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,0
+Ray,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,281
+Flyte,MLOps & Orchestration,HackerNews,2025-09-01,2025-09-07,0
+Azure AI,Cloud AI Platforms,HackerNews,2025-09-01,2025-09-07,0
+AWS Bedrock,Cloud AI Platforms,HackerNews,2025-09-01,2025-09-07,0
+Google Vertex AI,Cloud AI Platforms,HackerNews,2025-09-01,2025-09-07,0
+Cohere,Cloud AI Platforms,HackerNews,2025-09-01,2025-09-07,0
+AI21 Labs,Cloud AI Platforms,HackerNews,2025-09-01,2025-09-07,0
+Copilot,Code Generation,HackerNews,2025-09-01,2025-09-07,4
+CodeWhisperer,Code Generation,HackerNews,2025-09-01,2025-09-07,0
+Tabnine,Code Generation,HackerNews,2025-09-01,2025-09-07,0
+Replit AI,Code Generation,HackerNews,2025-09-01,2025-09-07,0
+AutoGPT,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,8
+BabyAGI,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,0
+CrewAI,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,0
+Langroid,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,2
+Voyager,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,5
+Devin AI,Productivity / Agents,HackerNews,2025-09-01,2025-09-07,0
+ollama,Other,GitHub,2025-08-11,2025-08-17,151331
+transformers,Other,GitHub,2025-08-11,2025-08-17,149019
+langchain,Other,GitHub,2025-08-11,2025-08-17,114569
+dify,Other,GitHub,2025-08-11,2025-08-17,112695
+open-webui,Other,GitHub,2025-08-11,2025-08-17,108513
+browser-use,Other,GitHub,2025-08-11,2025-08-17,68984
+LLMs-from-scratch,Other,GitHub,2025-08-11,2025-08-17,68478
+ragflow,Other,GitHub,2025-08-11,2025-08-17,63415
+OpenHands,Other,GitHub,2025-08-11,2025-08-17,62990
+llm-course,Other,GitHub,2025-08-11,2025-08-17,61190
+MetaGPT,Other,GitHub,2025-08-11,2025-08-17,58170
+LLaMA-Factory,Other,GitHub,2025-08-11,2025-08-17,57028
+vllm,Other,GitHub,2025-08-11,2025-08-17,56813
+firecrawl,Other,GitHub,2025-08-11,2025-08-17,53869
+anything-llm,Other,GitHub,2025-08-11,2025-08-17,48509
+unsloth,Other,GitHub,2025-08-11,2025-08-17,44909
+llama_index,Other,GitHub,2025-08-11,2025-08-17,43997
+Pake,Other,GitHub,2025-08-11,2025-08-17,41867
+mem0,Other,GitHub,2025-08-11,2025-08-17,39132
+chatgpt-on-wechat,Other,GitHub,2025-08-11,2025-08-17,38755
+ray,Other,GitHub,2025-08-11,2025-08-17,38725
+quivr,Other,GitHub,2025-08-11,2025-08-17,38371
+ChatTTS,Other,GitHub,2025-08-11,2025-08-17,37694
+milvus,Other,GitHub,2025-08-11,2025-08-17,36890
+Langchain-Chatchat,Other,GitHub,2025-08-11,2025-08-17,35988
+LocalAI,Other,GitHub,2025-08-11,2025-08-17,34953
+cherry-studio,Other,GitHub,2025-08-11,2025-08-17,32423
+llm-app,Other,GitHub,2025-08-11,2025-08-17,31156
+khoj,Other,GitHub,2025-08-11,2025-08-17,30832
+Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-11,2025-08-17,29630
+continue,Other,GitHub,2025-08-11,2025-08-17,28665
+context7,Other,GitHub,2025-08-11,2025-08-17,28404
+litellm,Other,GitHub,2025-08-11,2025-08-17,28191
+graphrag,Other,GitHub,2025-08-11,2025-08-17,27704
+void,Other,GitHub,2025-08-11,2025-08-17,26824
+semantic-kernel,Other,GitHub,2025-08-11,2025-08-17,25988
+composio,Other,GitHub,2025-08-11,2025-08-17,25682
+FastGPT,Other,GitHub,2025-08-11,2025-08-17,25670
+self-llm,Other,GitHub,2025-08-11,2025-08-17,23817
+gitleaks,Other,GitHub,2025-08-11,2025-08-17,23091
+chroma,Other,GitHub,2025-08-11,2025-08-17,22861
+CopilotKit,Other,GitHub,2025-08-11,2025-08-17,22673
+haystack,Other,GitHub,2025-08-11,2025-08-17,22081
+pandas-ai,Other,GitHub,2025-08-11,2025-08-17,21919
+unilm,Other,GitHub,2025-08-11,2025-08-17,21683
+agenticSeek,Other,GitHub,2025-08-11,2025-08-17,21629
+mlc-llm,Other,GitHub,2025-08-11,2025-08-17,21202
+Scrapegraph-ai,Other,GitHub,2025-08-11,2025-08-17,21158
+Awesome-Chinese-LLM,Other,GitHub,2025-08-11,2025-08-17,21084
+llm-cookbook,Other,GitHub,2025-08-11,2025-08-17,20906
+ollama,Other,GitHub,2025-08-18,2025-08-24,151331
+transformers,Other,GitHub,2025-08-18,2025-08-24,149019
+langchain,Other,GitHub,2025-08-18,2025-08-24,114569
+dify,Other,GitHub,2025-08-18,2025-08-24,112695
+open-webui,Other,GitHub,2025-08-18,2025-08-24,108513
+browser-use,Other,GitHub,2025-08-18,2025-08-24,68984
+LLMs-from-scratch,Other,GitHub,2025-08-18,2025-08-24,68478
+ragflow,Other,GitHub,2025-08-18,2025-08-24,63415
+OpenHands,Other,GitHub,2025-08-18,2025-08-24,62990
+llm-course,Other,GitHub,2025-08-18,2025-08-24,61190
+MetaGPT,Other,GitHub,2025-08-18,2025-08-24,58170
+LLaMA-Factory,Other,GitHub,2025-08-18,2025-08-24,57028
+vllm,Other,GitHub,2025-08-18,2025-08-24,56813
+firecrawl,Other,GitHub,2025-08-18,2025-08-24,53869
+anything-llm,Other,GitHub,2025-08-18,2025-08-24,48509
+unsloth,Other,GitHub,2025-08-18,2025-08-24,44909
+llama_index,Other,GitHub,2025-08-18,2025-08-24,43997
+Pake,Other,GitHub,2025-08-18,2025-08-24,41867
+mem0,Other,GitHub,2025-08-18,2025-08-24,39132
+chatgpt-on-wechat,Other,GitHub,2025-08-18,2025-08-24,38755
+ray,Other,GitHub,2025-08-18,2025-08-24,38725
+quivr,Other,GitHub,2025-08-18,2025-08-24,38371
+ChatTTS,Other,GitHub,2025-08-18,2025-08-24,37694
+milvus,Other,GitHub,2025-08-18,2025-08-24,36890
+Langchain-Chatchat,Other,GitHub,2025-08-18,2025-08-24,35988
+LocalAI,Other,GitHub,2025-08-18,2025-08-24,34953
+cherry-studio,Other,GitHub,2025-08-18,2025-08-24,32423
+llm-app,Other,GitHub,2025-08-18,2025-08-24,31156
+khoj,Other,GitHub,2025-08-18,2025-08-24,30832
+Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-18,2025-08-24,29630
+continue,Other,GitHub,2025-08-18,2025-08-24,28665
+context7,Other,GitHub,2025-08-18,2025-08-24,28404
+litellm,Other,GitHub,2025-08-18,2025-08-24,28191
+graphrag,Other,GitHub,2025-08-18,2025-08-24,27704
+void,Other,GitHub,2025-08-18,2025-08-24,26824
+semantic-kernel,Other,GitHub,2025-08-18,2025-08-24,25988
+composio,Other,GitHub,2025-08-18,2025-08-24,25682
+FastGPT,Other,GitHub,2025-08-18,2025-08-24,25670
+self-llm,Other,GitHub,2025-08-18,2025-08-24,23817
+gitleaks,Other,GitHub,2025-08-18,2025-08-24,23091
+chroma,Other,GitHub,2025-08-18,2025-08-24,22861
+CopilotKit,Other,GitHub,2025-08-18,2025-08-24,22673
+haystack,Other,GitHub,2025-08-18,2025-08-24,22081
+pandas-ai,Other,GitHub,2025-08-18,2025-08-24,21919
+unilm,Other,GitHub,2025-08-18,2025-08-24,21683
+agenticSeek,Other,GitHub,2025-08-18,2025-08-24,21629
+mlc-llm,Other,GitHub,2025-08-18,2025-08-24,21202
+Scrapegraph-ai,Other,GitHub,2025-08-18,2025-08-24,21158
+Awesome-Chinese-LLM,Other,GitHub,2025-08-18,2025-08-24,21084
+llm-cookbook,Other,GitHub,2025-08-18,2025-08-24,20906
+ollama,Other,GitHub,2025-08-25,2025-08-31,151331
+transformers,Other,GitHub,2025-08-25,2025-08-31,149019
+langchain,Other,GitHub,2025-08-25,2025-08-31,114569
+dify,Other,GitHub,2025-08-25,2025-08-31,112695
+open-webui,Other,GitHub,2025-08-25,2025-08-31,108513
+browser-use,Other,GitHub,2025-08-25,2025-08-31,68984
+LLMs-from-scratch,Other,GitHub,2025-08-25,2025-08-31,68478
+ragflow,Other,GitHub,2025-08-25,2025-08-31,63415
+OpenHands,Other,GitHub,2025-08-25,2025-08-31,62990
+llm-course,Other,GitHub,2025-08-25,2025-08-31,61190
+MetaGPT,Other,GitHub,2025-08-25,2025-08-31,58170
+LLaMA-Factory,Other,GitHub,2025-08-25,2025-08-31,57028
+vllm,Other,GitHub,2025-08-25,2025-08-31,56813
+firecrawl,Other,GitHub,2025-08-25,2025-08-31,53869
+anything-llm,Other,GitHub,2025-08-25,2025-08-31,48509
+unsloth,Other,GitHub,2025-08-25,2025-08-31,44909
+llama_index,Other,GitHub,2025-08-25,2025-08-31,43997
+Pake,Other,GitHub,2025-08-25,2025-08-31,41867
+mem0,Other,GitHub,2025-08-25,2025-08-31,39132
+chatgpt-on-wechat,Other,GitHub,2025-08-25,2025-08-31,38755
+ray,Other,GitHub,2025-08-25,2025-08-31,38725
+quivr,Other,GitHub,2025-08-25,2025-08-31,38371
+ChatTTS,Other,GitHub,2025-08-25,2025-08-31,37694
+milvus,Other,GitHub,2025-08-25,2025-08-31,36890
+Langchain-Chatchat,Other,GitHub,2025-08-25,2025-08-31,35988
+LocalAI,Other,GitHub,2025-08-25,2025-08-31,34953
+cherry-studio,Other,GitHub,2025-08-25,2025-08-31,32423
+llm-app,Other,GitHub,2025-08-25,2025-08-31,31156
+khoj,Other,GitHub,2025-08-25,2025-08-31,30832
+Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-08-25,2025-08-31,29630
+continue,Other,GitHub,2025-08-25,2025-08-31,28665
+context7,Other,GitHub,2025-08-25,2025-08-31,28404
+litellm,Other,GitHub,2025-08-25,2025-08-31,28191
+graphrag,Other,GitHub,2025-08-25,2025-08-31,27704
+void,Other,GitHub,2025-08-25,2025-08-31,26824
+semantic-kernel,Other,GitHub,2025-08-25,2025-08-31,25988
+composio,Other,GitHub,2025-08-25,2025-08-31,25682
+FastGPT,Other,GitHub,2025-08-25,2025-08-31,25670
+self-llm,Other,GitHub,2025-08-25,2025-08-31,23817
+gitleaks,Other,GitHub,2025-08-25,2025-08-31,23091
+chroma,Other,GitHub,2025-08-25,2025-08-31,22861
+CopilotKit,Other,GitHub,2025-08-25,2025-08-31,22673
+haystack,Other,GitHub,2025-08-25,2025-08-31,22081
+pandas-ai,Other,GitHub,2025-08-25,2025-08-31,21919
+unilm,Other,GitHub,2025-08-25,2025-08-31,21683
+agenticSeek,Other,GitHub,2025-08-25,2025-08-31,21629
+mlc-llm,Other,GitHub,2025-08-25,2025-08-31,21202
+Scrapegraph-ai,Other,GitHub,2025-08-25,2025-08-31,21158
+Awesome-Chinese-LLM,Other,GitHub,2025-08-25,2025-08-31,21084
+llm-cookbook,Other,GitHub,2025-08-25,2025-08-31,20906
+ollama,Other,GitHub,2025-09-01,2025-09-07,151331
+transformers,Other,GitHub,2025-09-01,2025-09-07,149019
+langchain,Other,GitHub,2025-09-01,2025-09-07,114569
+dify,Other,GitHub,2025-09-01,2025-09-07,112695
+open-webui,Other,GitHub,2025-09-01,2025-09-07,108513
+browser-use,Other,GitHub,2025-09-01,2025-09-07,68984
+LLMs-from-scratch,Other,GitHub,2025-09-01,2025-09-07,68478
+ragflow,Other,GitHub,2025-09-01,2025-09-07,63415
+OpenHands,Other,GitHub,2025-09-01,2025-09-07,62990
+llm-course,Other,GitHub,2025-09-01,2025-09-07,61190
+MetaGPT,Other,GitHub,2025-09-01,2025-09-07,58170
+LLaMA-Factory,Other,GitHub,2025-09-01,2025-09-07,57028
+vllm,Other,GitHub,2025-09-01,2025-09-07,56813
+firecrawl,Other,GitHub,2025-09-01,2025-09-07,53869
+anything-llm,Other,GitHub,2025-09-01,2025-09-07,48509
+unsloth,Other,GitHub,2025-09-01,2025-09-07,44909
+llama_index,Other,GitHub,2025-09-01,2025-09-07,43997
+Pake,Other,GitHub,2025-09-01,2025-09-07,41867
+mem0,Other,GitHub,2025-09-01,2025-09-07,39132
+chatgpt-on-wechat,Other,GitHub,2025-09-01,2025-09-07,38755
+ray,Other,GitHub,2025-09-01,2025-09-07,38725
+quivr,Other,GitHub,2025-09-01,2025-09-07,38371
+ChatTTS,Other,GitHub,2025-09-01,2025-09-07,37694
+milvus,Other,GitHub,2025-09-01,2025-09-07,36890
+Langchain-Chatchat,Other,GitHub,2025-09-01,2025-09-07,35988
+LocalAI,Other,GitHub,2025-09-01,2025-09-07,34953
+cherry-studio,Other,GitHub,2025-09-01,2025-09-07,32423
+llm-app,Other,GitHub,2025-09-01,2025-09-07,31156
+khoj,Other,GitHub,2025-09-01,2025-09-07,30832
+Mr.-Ranedeer-AI-Tutor,Other,GitHub,2025-09-01,2025-09-07,29630
+continue,Other,GitHub,2025-09-01,2025-09-07,28665
+context7,Other,GitHub,2025-09-01,2025-09-07,28404
+litellm,Other,GitHub,2025-09-01,2025-09-07,28191
+graphrag,Other,GitHub,2025-09-01,2025-09-07,27704
+void,Other,GitHub,2025-09-01,2025-09-07,26824
+semantic-kernel,Other,GitHub,2025-09-01,2025-09-07,25988
+composio,Other,GitHub,2025-09-01,2025-09-07,25682
+FastGPT,Other,GitHub,2025-09-01,2025-09-07,25670
+self-llm,Other,GitHub,2025-09-01,2025-09-07,23817
+gitleaks,Other,GitHub,2025-09-01,2025-09-07,23091
+chroma,Other,GitHub,2025-09-01,2025-09-07,22861
+CopilotKit,Other,GitHub,2025-09-01,2025-09-07,22673
+haystack,Other,GitHub,2025-09-01,2025-09-07,22081
+pandas-ai,Other,GitHub,2025-09-01,2025-09-07,21919
+unilm,Other,GitHub,2025-09-01,2025-09-07,21683
+agenticSeek,Other,GitHub,2025-09-01,2025-09-07,21629
+mlc-llm,Other,GitHub,2025-09-01,2025-09-07,21202
+Scrapegraph-ai,Other,GitHub,2025-09-01,2025-09-07,21158
+Awesome-Chinese-LLM,Other,GitHub,2025-09-01,2025-09-07,21084
+llm-cookbook,Other,GitHub,2025-09-01,2025-09-07,20906
+ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,81
+Claude,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,61
+Gemini,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,80
+Grok,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,109
+Perplexity,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,89
+Mistral,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,23
+LLaMA,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,38
+Command R+,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,114
+Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,32
+Anthropic,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,66
+Pi AI,LLMs & Chatbots,ProductHunt,2025-08-11,2025-08-17,11
+Falcon,Open Source Models,ProductHunt,2025-08-11,2025-08-17,127
+Dolly,Open Source Models,ProductHunt,2025-08-11,2025-08-17,148
+StableLM,Open Source Models,ProductHunt,2025-08-11,2025-08-17,61
+Vicuna,Open Source Models,ProductHunt,2025-08-11,2025-08-17,144
+Alpaca,Open Source Models,ProductHunt,2025-08-11,2025-08-17,41
+Orca,Open Source Models,ProductHunt,2025-08-11,2025-08-17,134
+Mixtral,Open Source Models,ProductHunt,2025-08-11,2025-08-17,75
+Phi,Open Source Models,ProductHunt,2025-08-11,2025-08-17,144
+DeepSeek,Open Source Models,ProductHunt,2025-08-11,2025-08-17,143
+Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,122
+DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,99
+MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,132
+Runway,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,58
+Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,65
+Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,112
+Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,118
+Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,50
+Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,61
+Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-11,2025-08-17,18
+Whisper,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,115
+ElevenLabs,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,120
+Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,91
+Descript,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,25
+Play.ht,Speech/Audio,ProductHunt,2025-08-11,2025-08-17,16
+Pinecone,Vector Databases,ProductHunt,2025-08-11,2025-08-17,145
+Weaviate,Vector Databases,ProductHunt,2025-08-11,2025-08-17,103
+Chroma,Vector Databases,ProductHunt,2025-08-11,2025-08-17,100
+Milvus,Vector Databases,ProductHunt,2025-08-11,2025-08-17,69
+Vespa,Vector Databases,ProductHunt,2025-08-11,2025-08-17,76
+Redis Vector,Vector Databases,ProductHunt,2025-08-11,2025-08-17,107
+Qdrant,Vector Databases,ProductHunt,2025-08-11,2025-08-17,116
+LangChain,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,60
+LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,11
+Haystack,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,134
+DSPy,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,55
+Transformers,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,90
+Diffusers,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,76
+OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,129
+DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,1
+Accelerate,Frameworks & Libraries,ProductHunt,2025-08-11,2025-08-17,71
+MLflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,94
+Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,146
+ClearML,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,2
+Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,109
+Prefect,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,79
+Airflow,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,124
+Ray,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,118
+Flyte,MLOps & Orchestration,ProductHunt,2025-08-11,2025-08-17,80
+Azure AI,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,123
+AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,90
+Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,38
+Cohere,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,1
+AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-11,2025-08-17,49
+Copilot,Code Generation,ProductHunt,2025-08-11,2025-08-17,43
+CodeWhisperer,Code Generation,ProductHunt,2025-08-11,2025-08-17,119
+Tabnine,Code Generation,ProductHunt,2025-08-11,2025-08-17,85
+Replit AI,Code Generation,ProductHunt,2025-08-11,2025-08-17,26
+AutoGPT,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,74
+BabyAGI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,100
+CrewAI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,107
+Langroid,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,27
+Voyager,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,137
+Devin AI,Productivity / Agents,ProductHunt,2025-08-11,2025-08-17,5
+ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,75
+Claude,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,103
+Gemini,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,13
+Grok,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,41
+Perplexity,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,75
+Mistral,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,131
+LLaMA,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,148
+Command R+,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,82
+Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,41
+Anthropic,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,140
+Pi AI,LLMs & Chatbots,ProductHunt,2025-08-18,2025-08-24,32
+Falcon,Open Source Models,ProductHunt,2025-08-18,2025-08-24,5
+Dolly,Open Source Models,ProductHunt,2025-08-18,2025-08-24,103
+StableLM,Open Source Models,ProductHunt,2025-08-18,2025-08-24,67
+Vicuna,Open Source Models,ProductHunt,2025-08-18,2025-08-24,22
+Alpaca,Open Source Models,ProductHunt,2025-08-18,2025-08-24,127
+Orca,Open Source Models,ProductHunt,2025-08-18,2025-08-24,113
+Mixtral,Open Source Models,ProductHunt,2025-08-18,2025-08-24,119
+Phi,Open Source Models,ProductHunt,2025-08-18,2025-08-24,75
+DeepSeek,Open Source Models,ProductHunt,2025-08-18,2025-08-24,92
+Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,59
+DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,13
+MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,86
+Runway,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,77
+Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,142
+Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,3
+Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,143
+Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,97
+Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,101
+Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-18,2025-08-24,9
+Whisper,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,144
+ElevenLabs,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,41
+Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,123
+Descript,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,141
+Play.ht,Speech/Audio,ProductHunt,2025-08-18,2025-08-24,90
+Pinecone,Vector Databases,ProductHunt,2025-08-18,2025-08-24,16
+Weaviate,Vector Databases,ProductHunt,2025-08-18,2025-08-24,91
+Chroma,Vector Databases,ProductHunt,2025-08-18,2025-08-24,67
+Milvus,Vector Databases,ProductHunt,2025-08-18,2025-08-24,23
+Vespa,Vector Databases,ProductHunt,2025-08-18,2025-08-24,67
 Redis Vector,Vector Databases,ProductHunt,2025-08-18,2025-08-24,107
-Qdrant,Vector Databases,ProductHunt,2025-08-18,2025-08-24,52
-LangChain,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,0
-LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,101
-Haystack,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,110
-DSPy,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,45
-Transformers,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,111
-Diffusers,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,138
-OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,145
-DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,4
-Accelerate,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,83
-MLflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,78
-Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,64
-ClearML,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,73
-Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,92
-Prefect,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,91
-Airflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,0
-Ray,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,46
-Flyte,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,28
-Azure AI,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,44
-AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,93
-Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,104
-Cohere,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,62
-AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,103
-Copilot,Code Generation,ProductHunt,2025-08-18,2025-08-24,39
-CodeWhisperer,Code Generation,ProductHunt,2025-08-18,2025-08-24,108
-Tabnine,Code Generation,ProductHunt,2025-08-18,2025-08-24,37
-Replit AI,Code Generation,ProductHunt,2025-08-18,2025-08-24,43
-AutoGPT,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,79
-BabyAGI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,28
-CrewAI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,75
-Langroid,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,12
-Voyager,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,91
-Devin AI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,146
-ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,93
-Claude,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,24
-Gemini,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,79
-Grok,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,90
-Perplexity,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,0
-Mistral,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,36
-LLaMA,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,68
-Command R+,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,117
-Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,111
-Anthropic,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,108
-Pi AI,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,48
-Falcon,Open Source Models,ProductHunt,2025-08-25,2025-08-31,137
-Dolly,Open Source Models,ProductHunt,2025-08-25,2025-08-31,45
-StableLM,Open Source Models,ProductHunt,2025-08-25,2025-08-31,25
-Vicuna,Open Source Models,ProductHunt,2025-08-25,2025-08-31,86
-Alpaca,Open Source Models,ProductHunt,2025-08-25,2025-08-31,32
-Orca,Open Source Models,ProductHunt,2025-08-25,2025-08-31,104
-Mixtral,Open Source Models,ProductHunt,2025-08-25,2025-08-31,63
-Phi,Open Source Models,ProductHunt,2025-08-25,2025-08-31,27
-DeepSeek,Open Source Models,ProductHunt,2025-08-25,2025-08-31,8
-Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,130
-DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,97
-MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,41
-Runway,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,139
-Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,122
-Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,46
-Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,24
-Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,42
-Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,31
-Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,31
-Whisper,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,84
-ElevenLabs,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,95
-Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,65
-Descript,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,118
-Play.ht,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,70
-Pinecone,Vector Databases,ProductHunt,2025-08-25,2025-08-31,114
-Weaviate,Vector Databases,ProductHunt,2025-08-25,2025-08-31,77
-Chroma,Vector Databases,ProductHunt,2025-08-25,2025-08-31,98
-Milvus,Vector Databases,ProductHunt,2025-08-25,2025-08-31,68
-Vespa,Vector Databases,ProductHunt,2025-08-25,2025-08-31,81
-Redis Vector,Vector Databases,ProductHunt,2025-08-25,2025-08-31,13
-Qdrant,Vector Databases,ProductHunt,2025-08-25,2025-08-31,51
-LangChain,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,145
-LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,66
-Haystack,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,144
-DSPy,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,3
-Transformers,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,58
-Diffusers,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,104
-OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,74
-DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,76
-Accelerate,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,115
-MLflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,82
-Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,106
-ClearML,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,1
-Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,30
-Prefect,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,39
-Airflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,89
-Ray,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,120
-Flyte,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,9
-Azure AI,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,14
-AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,110
-Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,30
-Cohere,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,40
-AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,11
-Copilot,Code Generation,ProductHunt,2025-08-25,2025-08-31,32
-CodeWhisperer,Code Generation,ProductHunt,2025-08-25,2025-08-31,85
-Tabnine,Code Generation,ProductHunt,2025-08-25,2025-08-31,80
-Replit AI,Code Generation,ProductHunt,2025-08-25,2025-08-31,61
-AutoGPT,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,77
-BabyAGI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,102
-CrewAI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,135
-Langroid,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,27
-Voyager,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,116
-Devin AI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,10
-ChatGPT,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,224648
-Claude,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,936201
-Gemini,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,912124
-Grok,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,537303
-Perplexity,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,23853
-Mistral,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,623240
-LLaMA,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,375071
-Command R+,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,86948
-Open Assistant,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,173444
-Anthropic,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,839842
-Pi AI,LLMs & Chatbots,YouTube,2025-08-04,2025-08-10,652966
-Falcon,Open Source Models,YouTube,2025-08-04,2025-08-10,47998
-Dolly,Open Source Models,YouTube,2025-08-04,2025-08-10,756149
-StableLM,Open Source Models,YouTube,2025-08-04,2025-08-10,490953
-Vicuna,Open Source Models,YouTube,2025-08-04,2025-08-10,176736
-Alpaca,Open Source Models,YouTube,2025-08-04,2025-08-10,380919
-Orca,Open Source Models,YouTube,2025-08-04,2025-08-10,673783
-Mixtral,Open Source Models,YouTube,2025-08-04,2025-08-10,87447
-Phi,Open Source Models,YouTube,2025-08-04,2025-08-10,912496
-DeepSeek,Open Source Models,YouTube,2025-08-04,2025-08-10,825712
-Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,460088
-DALL-E,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,839531
-MidJourney,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,362695
-Runway,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,477010
-Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,282879
-Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,918081
-Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,397863
-Kaiber,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,344741
-Synthesia,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,551704
-Scenario,Image/Video/Audio Generation,YouTube,2025-08-04,2025-08-10,35271
-Whisper,Speech/Audio,YouTube,2025-08-04,2025-08-10,139450
-ElevenLabs,Speech/Audio,YouTube,2025-08-04,2025-08-10,505857
-Hugging Face Audio,Speech/Audio,YouTube,2025-08-04,2025-08-10,699078
-Descript,Speech/Audio,YouTube,2025-08-04,2025-08-10,893379
-Play.ht,Speech/Audio,YouTube,2025-08-04,2025-08-10,706112
-Pinecone,Vector Databases,YouTube,2025-08-04,2025-08-10,920951
-Weaviate,Vector Databases,YouTube,2025-08-04,2025-08-10,522597
-Chroma,Vector Databases,YouTube,2025-08-04,2025-08-10,568934
-Milvus,Vector Databases,YouTube,2025-08-04,2025-08-10,260112
-Vespa,Vector Databases,YouTube,2025-08-04,2025-08-10,404679
-Redis Vector,Vector Databases,YouTube,2025-08-04,2025-08-10,734612
-Qdrant,Vector Databases,YouTube,2025-08-04,2025-08-10,652599
-LangChain,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,229366
-LlamaIndex,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,710304
-Haystack,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,258333
-DSPy,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,705107
-Transformers,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,861686
-Diffusers,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,653586
-OpenVINO,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,780225
-DeepSpeed,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,614625
-Accelerate,Frameworks & Libraries,YouTube,2025-08-04,2025-08-10,404834
-MLflow,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,710844
-Weights & Biases,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,147467
-ClearML,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,723907
-Kubeflow,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,36958
-Prefect,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,508954
-Airflow,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,945301
-Ray,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,940410
-Flyte,MLOps & Orchestration,YouTube,2025-08-04,2025-08-10,41572
-Azure AI,Cloud AI Platforms,YouTube,2025-08-04,2025-08-10,173033
-AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-04,2025-08-10,983764
-Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-04,2025-08-10,444329
-Cohere,Cloud AI Platforms,YouTube,2025-08-04,2025-08-10,686062
-AI21 Labs,Cloud AI Platforms,YouTube,2025-08-04,2025-08-10,862103
-Copilot,Code Generation,YouTube,2025-08-04,2025-08-10,78552
-CodeWhisperer,Code Generation,YouTube,2025-08-04,2025-08-10,593852
-Tabnine,Code Generation,YouTube,2025-08-04,2025-08-10,106940
-Replit AI,Code Generation,YouTube,2025-08-04,2025-08-10,186744
-AutoGPT,Productivity / Agents,YouTube,2025-08-04,2025-08-10,171263
-BabyAGI,Productivity / Agents,YouTube,2025-08-04,2025-08-10,676690
-CrewAI,Productivity / Agents,YouTube,2025-08-04,2025-08-10,258413
-Langroid,Productivity / Agents,YouTube,2025-08-04,2025-08-10,527317
-Voyager,Productivity / Agents,YouTube,2025-08-04,2025-08-10,40841
-Devin AI,Productivity / Agents,YouTube,2025-08-04,2025-08-10,96745
-ChatGPT,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,557230
-Claude,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,120096
-Gemini,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,857892
-Grok,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,417101
-Perplexity,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,811434
-Mistral,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,808269
-LLaMA,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,187454
-Command R+,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,467291
-Open Assistant,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,591889
-Anthropic,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,255050
-Pi AI,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,760915
-Falcon,Open Source Models,YouTube,2025-08-11,2025-08-17,33748
-Dolly,Open Source Models,YouTube,2025-08-11,2025-08-17,344982
-StableLM,Open Source Models,YouTube,2025-08-11,2025-08-17,747460
-Vicuna,Open Source Models,YouTube,2025-08-11,2025-08-17,921187
-Alpaca,Open Source Models,YouTube,2025-08-11,2025-08-17,44829
-Orca,Open Source Models,YouTube,2025-08-11,2025-08-17,8925
-Mixtral,Open Source Models,YouTube,2025-08-11,2025-08-17,749247
-Phi,Open Source Models,YouTube,2025-08-11,2025-08-17,180520
-DeepSeek,Open Source Models,YouTube,2025-08-11,2025-08-17,649808
-Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,184988
-DALL-E,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,760267
-MidJourney,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,578308
-Runway,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,711857
-Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,849056
-Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,228681
-Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,827317
-Kaiber,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,120839
-Synthesia,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,947903
-Scenario,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,782617
-Whisper,Speech/Audio,YouTube,2025-08-11,2025-08-17,167564
-ElevenLabs,Speech/Audio,YouTube,2025-08-11,2025-08-17,796374
-Hugging Face Audio,Speech/Audio,YouTube,2025-08-11,2025-08-17,825145
-Descript,Speech/Audio,YouTube,2025-08-11,2025-08-17,849057
-Play.ht,Speech/Audio,YouTube,2025-08-11,2025-08-17,251244
-Pinecone,Vector Databases,YouTube,2025-08-11,2025-08-17,500038
-Weaviate,Vector Databases,YouTube,2025-08-11,2025-08-17,618946
-Chroma,Vector Databases,YouTube,2025-08-11,2025-08-17,911613
-Milvus,Vector Databases,YouTube,2025-08-11,2025-08-17,687908
-Vespa,Vector Databases,YouTube,2025-08-11,2025-08-17,686500
-Redis Vector,Vector Databases,YouTube,2025-08-11,2025-08-17,275284
-Qdrant,Vector Databases,YouTube,2025-08-11,2025-08-17,8669
-LangChain,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,758805
-LlamaIndex,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,539548
-Haystack,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,810587
-DSPy,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,274764
-Transformers,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,344134
-Diffusers,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,614039
-OpenVINO,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,667021
-DeepSpeed,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,966430
-Accelerate,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,801778
-MLflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,983996
-Weights & Biases,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,226969
-ClearML,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,75828
-Kubeflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,475976
-Prefect,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,545372
-Airflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,695164
-Ray,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,360492
-Flyte,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,149820
-Azure AI,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,199978
-AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,601634
-Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,794654
-Cohere,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,453891
-AI21 Labs,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,726347
-Copilot,Code Generation,YouTube,2025-08-11,2025-08-17,626201
-CodeWhisperer,Code Generation,YouTube,2025-08-11,2025-08-17,389149
-Tabnine,Code Generation,YouTube,2025-08-11,2025-08-17,222042
-Replit AI,Code Generation,YouTube,2025-08-11,2025-08-17,984618
-AutoGPT,Productivity / Agents,YouTube,2025-08-11,2025-08-17,217744
-BabyAGI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,493000
-CrewAI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,884086
-Langroid,Productivity / Agents,YouTube,2025-08-11,2025-08-17,385517
-Voyager,Productivity / Agents,YouTube,2025-08-11,2025-08-17,238725
-Devin AI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,419519
-ChatGPT,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,323483
-Claude,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,280471
-Gemini,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,975071
-Grok,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,652808
-Perplexity,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,11215
-Mistral,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,689471
-LLaMA,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,262070
-Command R+,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,560356
-Open Assistant,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,115174
-Anthropic,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,13654
-Pi AI,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,209512
-Falcon,Open Source Models,YouTube,2025-08-18,2025-08-24,917943
-Dolly,Open Source Models,YouTube,2025-08-18,2025-08-24,767813
-StableLM,Open Source Models,YouTube,2025-08-18,2025-08-24,714258
-Vicuna,Open Source Models,YouTube,2025-08-18,2025-08-24,20566
-Alpaca,Open Source Models,YouTube,2025-08-18,2025-08-24,20381
-Orca,Open Source Models,YouTube,2025-08-18,2025-08-24,421295
-Mixtral,Open Source Models,YouTube,2025-08-18,2025-08-24,314308
-Phi,Open Source Models,YouTube,2025-08-18,2025-08-24,227491
-DeepSeek,Open Source Models,YouTube,2025-08-18,2025-08-24,266982
-Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,733398
-DALL-E,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,187623
-MidJourney,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,182977
-Runway,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,208622
-Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,263341
-Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,697717
-Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,549983
-Kaiber,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,747380
-Synthesia,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,561573
-Scenario,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,338125
-Whisper,Speech/Audio,YouTube,2025-08-18,2025-08-24,239936
-ElevenLabs,Speech/Audio,YouTube,2025-08-18,2025-08-24,257823
-Hugging Face Audio,Speech/Audio,YouTube,2025-08-18,2025-08-24,189875
-Descript,Speech/Audio,YouTube,2025-08-18,2025-08-24,630811
-Play.ht,Speech/Audio,YouTube,2025-08-18,2025-08-24,880451
-Pinecone,Vector Databases,YouTube,2025-08-18,2025-08-24,237296
-Weaviate,Vector Databases,YouTube,2025-08-18,2025-08-24,704054
-Chroma,Vector Databases,YouTube,2025-08-18,2025-08-24,646108
-Milvus,Vector Databases,YouTube,2025-08-18,2025-08-24,55106
-Vespa,Vector Databases,YouTube,2025-08-18,2025-08-24,799959
-Redis Vector,Vector Databases,YouTube,2025-08-18,2025-08-24,109751
-Qdrant,Vector Databases,YouTube,2025-08-18,2025-08-24,683287
-LangChain,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,801629
-LlamaIndex,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,214485
-Haystack,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,527971
-DSPy,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,67504
-Transformers,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,79845
-Diffusers,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,461392
-OpenVINO,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,818688
-DeepSpeed,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,305558
-Accelerate,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,496223
-MLflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,83455
-Weights & Biases,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,245270
-ClearML,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,941880
-Kubeflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,308297
-Prefect,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,868779
-Airflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,303517
-Ray,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,532681
-Flyte,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,318035
-Azure AI,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,890498
-AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,136124
-Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,56788
-Cohere,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,336521
-AI21 Labs,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,19242
-Copilot,Code Generation,YouTube,2025-08-18,2025-08-24,128272
-CodeWhisperer,Code Generation,YouTube,2025-08-18,2025-08-24,551155
-Tabnine,Code Generation,YouTube,2025-08-18,2025-08-24,612
-Replit AI,Code Generation,YouTube,2025-08-18,2025-08-24,301338
-AutoGPT,Productivity / Agents,YouTube,2025-08-18,2025-08-24,521177
-BabyAGI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,754436
-CrewAI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,916069
-Langroid,Productivity / Agents,YouTube,2025-08-18,2025-08-24,395578
-Voyager,Productivity / Agents,YouTube,2025-08-18,2025-08-24,878922
-Devin AI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,80428
-ChatGPT,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,936892
-Claude,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,461245
-Gemini,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,193895
-Grok,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,760784
-Perplexity,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,916165
-Mistral,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,893133
-LLaMA,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,773403
-Command R+,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,708054
-Open Assistant,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,895560
-Anthropic,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,523813
-Pi AI,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,605801
-Falcon,Open Source Models,YouTube,2025-08-25,2025-08-31,339623
-Dolly,Open Source Models,YouTube,2025-08-25,2025-08-31,479279
-StableLM,Open Source Models,YouTube,2025-08-25,2025-08-31,519965
-Vicuna,Open Source Models,YouTube,2025-08-25,2025-08-31,387309
-Alpaca,Open Source Models,YouTube,2025-08-25,2025-08-31,125740
-Orca,Open Source Models,YouTube,2025-08-25,2025-08-31,3486
-Mixtral,Open Source Models,YouTube,2025-08-25,2025-08-31,157075
-Phi,Open Source Models,YouTube,2025-08-25,2025-08-31,886431
-DeepSeek,Open Source Models,YouTube,2025-08-25,2025-08-31,262954
-Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,352053
-DALL-E,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,204527
-MidJourney,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,623221
-Runway,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,493915
-Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,847933
-Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,125002
-Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,279095
-Kaiber,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,792335
-Synthesia,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,100097
-Scenario,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,714378
-Whisper,Speech/Audio,YouTube,2025-08-25,2025-08-31,544891
-ElevenLabs,Speech/Audio,YouTube,2025-08-25,2025-08-31,942356
-Hugging Face Audio,Speech/Audio,YouTube,2025-08-25,2025-08-31,596990
-Descript,Speech/Audio,YouTube,2025-08-25,2025-08-31,612666
-Play.ht,Speech/Audio,YouTube,2025-08-25,2025-08-31,76914
-Pinecone,Vector Databases,YouTube,2025-08-25,2025-08-31,419244
-Weaviate,Vector Databases,YouTube,2025-08-25,2025-08-31,91196
-Chroma,Vector Databases,YouTube,2025-08-25,2025-08-31,635844
-Milvus,Vector Databases,YouTube,2025-08-25,2025-08-31,386869
-Vespa,Vector Databases,YouTube,2025-08-25,2025-08-31,10897
-Redis Vector,Vector Databases,YouTube,2025-08-25,2025-08-31,624949
-Qdrant,Vector Databases,YouTube,2025-08-25,2025-08-31,294037
-LangChain,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,183855
-LlamaIndex,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,886258
-Haystack,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,452577
-DSPy,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,150627
-Transformers,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,189932
-Diffusers,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,800461
-OpenVINO,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,416722
-DeepSpeed,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,855909
-Accelerate,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,898562
-MLflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,683723
-Weights & Biases,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,302133
-ClearML,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,870444
-Kubeflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,480826
-Prefect,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,932355
-Airflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,903689
-Ray,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,788526
-Flyte,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,162346
-Azure AI,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,771081
-AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,469329
-Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,198811
-Cohere,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,888306
-AI21 Labs,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,898156
-Copilot,Code Generation,YouTube,2025-08-25,2025-08-31,72139
-CodeWhisperer,Code Generation,YouTube,2025-08-25,2025-08-31,766461
-Tabnine,Code Generation,YouTube,2025-08-25,2025-08-31,154244
-Replit AI,Code Generation,YouTube,2025-08-25,2025-08-31,295112
-AutoGPT,Productivity / Agents,YouTube,2025-08-25,2025-08-31,222281
-BabyAGI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,360961
-CrewAI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,874966
-Langroid,Productivity / Agents,YouTube,2025-08-25,2025-08-31,395107
-Voyager,Productivity / Agents,YouTube,2025-08-25,2025-08-31,812962
-Devin AI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,609221
+Qdrant,Vector Databases,ProductHunt,2025-08-18,2025-08-24,59
+LangChain,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,36
+LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,4
+Haystack,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,0
+DSPy,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,19
+Transformers,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,90
+Diffusers,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,18
+OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,86
+DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,83
+Accelerate,Frameworks & Libraries,ProductHunt,2025-08-18,2025-08-24,51
+MLflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,14
+Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,68
+ClearML,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,26
+Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,135
+Prefect,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,88
+Airflow,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,9
+Ray,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,65
+Flyte,MLOps & Orchestration,ProductHunt,2025-08-18,2025-08-24,90
+Azure AI,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,117
+AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,81
+Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,1
+Cohere,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,133
+AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-18,2025-08-24,108
+Copilot,Code Generation,ProductHunt,2025-08-18,2025-08-24,54
+CodeWhisperer,Code Generation,ProductHunt,2025-08-18,2025-08-24,103
+Tabnine,Code Generation,ProductHunt,2025-08-18,2025-08-24,50
+Replit AI,Code Generation,ProductHunt,2025-08-18,2025-08-24,44
+AutoGPT,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,77
+BabyAGI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,3
+CrewAI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,58
+Langroid,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,119
+Voyager,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,133
+Devin AI,Productivity / Agents,ProductHunt,2025-08-18,2025-08-24,103
+ChatGPT,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,99
+Claude,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,66
+Gemini,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,107
+Grok,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,10
+Perplexity,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,111
+Mistral,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,71
+LLaMA,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,48
+Command R+,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,92
+Open Assistant,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,84
+Anthropic,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,144
+Pi AI,LLMs & Chatbots,ProductHunt,2025-08-25,2025-08-31,80
+Falcon,Open Source Models,ProductHunt,2025-08-25,2025-08-31,140
+Dolly,Open Source Models,ProductHunt,2025-08-25,2025-08-31,93
+StableLM,Open Source Models,ProductHunt,2025-08-25,2025-08-31,56
+Vicuna,Open Source Models,ProductHunt,2025-08-25,2025-08-31,128
+Alpaca,Open Source Models,ProductHunt,2025-08-25,2025-08-31,14
+Orca,Open Source Models,ProductHunt,2025-08-25,2025-08-31,60
+Mixtral,Open Source Models,ProductHunt,2025-08-25,2025-08-31,80
+Phi,Open Source Models,ProductHunt,2025-08-25,2025-08-31,13
+DeepSeek,Open Source Models,ProductHunt,2025-08-25,2025-08-31,111
+Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,132
+DALL-E,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,104
+MidJourney,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,34
+Runway,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,149
+Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,124
+Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,31
+Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,68
+Kaiber,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,69
+Synthesia,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,125
+Scenario,Image/Video/Audio Generation,ProductHunt,2025-08-25,2025-08-31,48
+Whisper,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,15
+ElevenLabs,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,57
+Hugging Face Audio,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,7
+Descript,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,91
+Play.ht,Speech/Audio,ProductHunt,2025-08-25,2025-08-31,33
+Pinecone,Vector Databases,ProductHunt,2025-08-25,2025-08-31,54
+Weaviate,Vector Databases,ProductHunt,2025-08-25,2025-08-31,145
+Chroma,Vector Databases,ProductHunt,2025-08-25,2025-08-31,66
+Milvus,Vector Databases,ProductHunt,2025-08-25,2025-08-31,64
+Vespa,Vector Databases,ProductHunt,2025-08-25,2025-08-31,149
+Redis Vector,Vector Databases,ProductHunt,2025-08-25,2025-08-31,145
+Qdrant,Vector Databases,ProductHunt,2025-08-25,2025-08-31,42
+LangChain,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,95
+LlamaIndex,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,123
+Haystack,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,42
+DSPy,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,140
+Transformers,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,53
+Diffusers,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,29
+OpenVINO,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,100
+DeepSpeed,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,64
+Accelerate,Frameworks & Libraries,ProductHunt,2025-08-25,2025-08-31,107
+MLflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,94
+Weights & Biases,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,70
+ClearML,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,111
+Kubeflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,16
+Prefect,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,10
+Airflow,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,57
+Ray,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,26
+Flyte,MLOps & Orchestration,ProductHunt,2025-08-25,2025-08-31,73
+Azure AI,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,41
+AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,8
+Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,12
+Cohere,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,17
+AI21 Labs,Cloud AI Platforms,ProductHunt,2025-08-25,2025-08-31,132
+Copilot,Code Generation,ProductHunt,2025-08-25,2025-08-31,90
+CodeWhisperer,Code Generation,ProductHunt,2025-08-25,2025-08-31,100
+Tabnine,Code Generation,ProductHunt,2025-08-25,2025-08-31,20
+Replit AI,Code Generation,ProductHunt,2025-08-25,2025-08-31,109
+AutoGPT,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,24
+BabyAGI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,97
+CrewAI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,63
+Langroid,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,74
+Voyager,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,122
+Devin AI,Productivity / Agents,ProductHunt,2025-08-25,2025-08-31,139
+ChatGPT,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,149
+Claude,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,70
+Gemini,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,133
+Grok,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,108
+Perplexity,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,23
+Mistral,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,25
+LLaMA,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,97
+Command R+,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,41
+Open Assistant,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,54
+Anthropic,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,62
+Pi AI,LLMs & Chatbots,ProductHunt,2025-09-01,2025-09-07,73
+Falcon,Open Source Models,ProductHunt,2025-09-01,2025-09-07,80
+Dolly,Open Source Models,ProductHunt,2025-09-01,2025-09-07,1
+StableLM,Open Source Models,ProductHunt,2025-09-01,2025-09-07,134
+Vicuna,Open Source Models,ProductHunt,2025-09-01,2025-09-07,3
+Alpaca,Open Source Models,ProductHunt,2025-09-01,2025-09-07,119
+Orca,Open Source Models,ProductHunt,2025-09-01,2025-09-07,54
+Mixtral,Open Source Models,ProductHunt,2025-09-01,2025-09-07,89
+Phi,Open Source Models,ProductHunt,2025-09-01,2025-09-07,105
+DeepSeek,Open Source Models,ProductHunt,2025-09-01,2025-09-07,137
+Stable Diffusion,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,54
+DALL-E,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,45
+MidJourney,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,123
+Runway,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,46
+Leonardo AI,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,132
+Pika Labs,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,46
+Gen-2 Runway,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,83
+Kaiber,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,79
+Synthesia,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,148
+Scenario,Image/Video/Audio Generation,ProductHunt,2025-09-01,2025-09-07,127
+Whisper,Speech/Audio,ProductHunt,2025-09-01,2025-09-07,21
+ElevenLabs,Speech/Audio,ProductHunt,2025-09-01,2025-09-07,46
+Hugging Face Audio,Speech/Audio,ProductHunt,2025-09-01,2025-09-07,96
+Descript,Speech/Audio,ProductHunt,2025-09-01,2025-09-07,52
+Play.ht,Speech/Audio,ProductHunt,2025-09-01,2025-09-07,71
+Pinecone,Vector Databases,ProductHunt,2025-09-01,2025-09-07,68
+Weaviate,Vector Databases,ProductHunt,2025-09-01,2025-09-07,123
+Chroma,Vector Databases,ProductHunt,2025-09-01,2025-09-07,76
+Milvus,Vector Databases,ProductHunt,2025-09-01,2025-09-07,90
+Vespa,Vector Databases,ProductHunt,2025-09-01,2025-09-07,143
+Redis Vector,Vector Databases,ProductHunt,2025-09-01,2025-09-07,91
+Qdrant,Vector Databases,ProductHunt,2025-09-01,2025-09-07,140
+LangChain,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,80
+LlamaIndex,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,148
+Haystack,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,79
+DSPy,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,130
+Transformers,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,104
+Diffusers,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,38
+OpenVINO,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,68
+DeepSpeed,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,57
+Accelerate,Frameworks & Libraries,ProductHunt,2025-09-01,2025-09-07,71
+MLflow,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,97
+Weights & Biases,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,30
+ClearML,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,1
+Kubeflow,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,103
+Prefect,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,80
+Airflow,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,81
+Ray,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,74
+Flyte,MLOps & Orchestration,ProductHunt,2025-09-01,2025-09-07,101
+Azure AI,Cloud AI Platforms,ProductHunt,2025-09-01,2025-09-07,17
+AWS Bedrock,Cloud AI Platforms,ProductHunt,2025-09-01,2025-09-07,3
+Google Vertex AI,Cloud AI Platforms,ProductHunt,2025-09-01,2025-09-07,101
+Cohere,Cloud AI Platforms,ProductHunt,2025-09-01,2025-09-07,62
+AI21 Labs,Cloud AI Platforms,ProductHunt,2025-09-01,2025-09-07,11
+Copilot,Code Generation,ProductHunt,2025-09-01,2025-09-07,35
+CodeWhisperer,Code Generation,ProductHunt,2025-09-01,2025-09-07,87
+Tabnine,Code Generation,ProductHunt,2025-09-01,2025-09-07,36
+Replit AI,Code Generation,ProductHunt,2025-09-01,2025-09-07,90
+AutoGPT,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,103
+BabyAGI,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,8
+CrewAI,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,126
+Langroid,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,21
+Voyager,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,114
+Devin AI,Productivity / Agents,ProductHunt,2025-09-01,2025-09-07,129
+ChatGPT,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,798800
+Claude,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,339149
+Gemini,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,113093
+Grok,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,105319
+Perplexity,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,524636
+Mistral,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,278002
+LLaMA,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,900807
+Command R+,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,938367
+Open Assistant,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,806400
+Anthropic,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,285981
+Pi AI,LLMs & Chatbots,YouTube,2025-08-11,2025-08-17,136017
+Falcon,Open Source Models,YouTube,2025-08-11,2025-08-17,231474
+Dolly,Open Source Models,YouTube,2025-08-11,2025-08-17,525691
+StableLM,Open Source Models,YouTube,2025-08-11,2025-08-17,802093
+Vicuna,Open Source Models,YouTube,2025-08-11,2025-08-17,999563
+Alpaca,Open Source Models,YouTube,2025-08-11,2025-08-17,54359
+Orca,Open Source Models,YouTube,2025-08-11,2025-08-17,908533
+Mixtral,Open Source Models,YouTube,2025-08-11,2025-08-17,131873
+Phi,Open Source Models,YouTube,2025-08-11,2025-08-17,443022
+DeepSeek,Open Source Models,YouTube,2025-08-11,2025-08-17,583203
+Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,798837
+DALL-E,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,76713
+MidJourney,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,116046
+Runway,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,335975
+Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,923999
+Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,637838
+Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,174680
+Kaiber,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,15434
+Synthesia,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,314113
+Scenario,Image/Video/Audio Generation,YouTube,2025-08-11,2025-08-17,407270
+Whisper,Speech/Audio,YouTube,2025-08-11,2025-08-17,591939
+ElevenLabs,Speech/Audio,YouTube,2025-08-11,2025-08-17,965168
+Hugging Face Audio,Speech/Audio,YouTube,2025-08-11,2025-08-17,506054
+Descript,Speech/Audio,YouTube,2025-08-11,2025-08-17,476970
+Play.ht,Speech/Audio,YouTube,2025-08-11,2025-08-17,656702
+Pinecone,Vector Databases,YouTube,2025-08-11,2025-08-17,67407
+Weaviate,Vector Databases,YouTube,2025-08-11,2025-08-17,904633
+Chroma,Vector Databases,YouTube,2025-08-11,2025-08-17,711652
+Milvus,Vector Databases,YouTube,2025-08-11,2025-08-17,321877
+Vespa,Vector Databases,YouTube,2025-08-11,2025-08-17,790001
+Redis Vector,Vector Databases,YouTube,2025-08-11,2025-08-17,267816
+Qdrant,Vector Databases,YouTube,2025-08-11,2025-08-17,388884
+LangChain,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,916337
+LlamaIndex,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,340318
+Haystack,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,79545
+DSPy,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,539127
+Transformers,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,630715
+Diffusers,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,792634
+OpenVINO,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,332406
+DeepSpeed,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,587527
+Accelerate,Frameworks & Libraries,YouTube,2025-08-11,2025-08-17,153647
+MLflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,629784
+Weights & Biases,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,375596
+ClearML,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,626795
+Kubeflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,326602
+Prefect,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,475130
+Airflow,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,959401
+Ray,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,242533
+Flyte,MLOps & Orchestration,YouTube,2025-08-11,2025-08-17,127467
+Azure AI,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,41328
+AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,591185
+Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,907192
+Cohere,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,906672
+AI21 Labs,Cloud AI Platforms,YouTube,2025-08-11,2025-08-17,48765
+Copilot,Code Generation,YouTube,2025-08-11,2025-08-17,647619
+CodeWhisperer,Code Generation,YouTube,2025-08-11,2025-08-17,431485
+Tabnine,Code Generation,YouTube,2025-08-11,2025-08-17,715625
+Replit AI,Code Generation,YouTube,2025-08-11,2025-08-17,562759
+AutoGPT,Productivity / Agents,YouTube,2025-08-11,2025-08-17,459902
+BabyAGI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,407114
+CrewAI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,69674
+Langroid,Productivity / Agents,YouTube,2025-08-11,2025-08-17,346936
+Voyager,Productivity / Agents,YouTube,2025-08-11,2025-08-17,411400
+Devin AI,Productivity / Agents,YouTube,2025-08-11,2025-08-17,14080
+ChatGPT,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,93407
+Claude,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,982547
+Gemini,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,294317
+Grok,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,52053
+Perplexity,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,565842
+Mistral,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,297059
+LLaMA,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,679177
+Command R+,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,78139
+Open Assistant,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,511161
+Anthropic,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,942452
+Pi AI,LLMs & Chatbots,YouTube,2025-08-18,2025-08-24,221287
+Falcon,Open Source Models,YouTube,2025-08-18,2025-08-24,658059
+Dolly,Open Source Models,YouTube,2025-08-18,2025-08-24,713985
+StableLM,Open Source Models,YouTube,2025-08-18,2025-08-24,245134
+Vicuna,Open Source Models,YouTube,2025-08-18,2025-08-24,526524
+Alpaca,Open Source Models,YouTube,2025-08-18,2025-08-24,314676
+Orca,Open Source Models,YouTube,2025-08-18,2025-08-24,251589
+Mixtral,Open Source Models,YouTube,2025-08-18,2025-08-24,675164
+Phi,Open Source Models,YouTube,2025-08-18,2025-08-24,98950
+DeepSeek,Open Source Models,YouTube,2025-08-18,2025-08-24,350844
+Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,827659
+DALL-E,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,211489
+MidJourney,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,851717
+Runway,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,592834
+Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,91369
+Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,844079
+Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,219527
+Kaiber,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,968181
+Synthesia,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,379700
+Scenario,Image/Video/Audio Generation,YouTube,2025-08-18,2025-08-24,786262
+Whisper,Speech/Audio,YouTube,2025-08-18,2025-08-24,877368
+ElevenLabs,Speech/Audio,YouTube,2025-08-18,2025-08-24,292148
+Hugging Face Audio,Speech/Audio,YouTube,2025-08-18,2025-08-24,543238
+Descript,Speech/Audio,YouTube,2025-08-18,2025-08-24,343993
+Play.ht,Speech/Audio,YouTube,2025-08-18,2025-08-24,731407
+Pinecone,Vector Databases,YouTube,2025-08-18,2025-08-24,822051
+Weaviate,Vector Databases,YouTube,2025-08-18,2025-08-24,50268
+Chroma,Vector Databases,YouTube,2025-08-18,2025-08-24,743957
+Milvus,Vector Databases,YouTube,2025-08-18,2025-08-24,157064
+Vespa,Vector Databases,YouTube,2025-08-18,2025-08-24,925768
+Redis Vector,Vector Databases,YouTube,2025-08-18,2025-08-24,922104
+Qdrant,Vector Databases,YouTube,2025-08-18,2025-08-24,773834
+LangChain,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,104775
+LlamaIndex,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,164744
+Haystack,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,570685
+DSPy,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,384478
+Transformers,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,928020
+Diffusers,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,936722
+OpenVINO,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,104878
+DeepSpeed,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,642059
+Accelerate,Frameworks & Libraries,YouTube,2025-08-18,2025-08-24,125939
+MLflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,666291
+Weights & Biases,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,334913
+ClearML,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,300179
+Kubeflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,355184
+Prefect,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,402139
+Airflow,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,771694
+Ray,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,586124
+Flyte,MLOps & Orchestration,YouTube,2025-08-18,2025-08-24,846088
+Azure AI,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,464100
+AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,535492
+Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,31405
+Cohere,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,831347
+AI21 Labs,Cloud AI Platforms,YouTube,2025-08-18,2025-08-24,340476
+Copilot,Code Generation,YouTube,2025-08-18,2025-08-24,920977
+CodeWhisperer,Code Generation,YouTube,2025-08-18,2025-08-24,539317
+Tabnine,Code Generation,YouTube,2025-08-18,2025-08-24,179063
+Replit AI,Code Generation,YouTube,2025-08-18,2025-08-24,933644
+AutoGPT,Productivity / Agents,YouTube,2025-08-18,2025-08-24,698684
+BabyAGI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,144184
+CrewAI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,5310
+Langroid,Productivity / Agents,YouTube,2025-08-18,2025-08-24,827320
+Voyager,Productivity / Agents,YouTube,2025-08-18,2025-08-24,295195
+Devin AI,Productivity / Agents,YouTube,2025-08-18,2025-08-24,579175
+ChatGPT,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,431389
+Claude,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,501968
+Gemini,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,587199
+Grok,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,63457
+Perplexity,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,532649
+Mistral,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,967858
+LLaMA,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,72640
+Command R+,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,325978
+Open Assistant,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,275205
+Anthropic,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,778359
+Pi AI,LLMs & Chatbots,YouTube,2025-08-25,2025-08-31,512659
+Falcon,Open Source Models,YouTube,2025-08-25,2025-08-31,948392
+Dolly,Open Source Models,YouTube,2025-08-25,2025-08-31,615696
+StableLM,Open Source Models,YouTube,2025-08-25,2025-08-31,118154
+Vicuna,Open Source Models,YouTube,2025-08-25,2025-08-31,298104
+Alpaca,Open Source Models,YouTube,2025-08-25,2025-08-31,317994
+Orca,Open Source Models,YouTube,2025-08-25,2025-08-31,472295
+Mixtral,Open Source Models,YouTube,2025-08-25,2025-08-31,530437
+Phi,Open Source Models,YouTube,2025-08-25,2025-08-31,802261
+DeepSeek,Open Source Models,YouTube,2025-08-25,2025-08-31,541618
+Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,377630
+DALL-E,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,247843
+MidJourney,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,668594
+Runway,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,390616
+Leonardo AI,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,905031
+Pika Labs,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,611376
+Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,770599
+Kaiber,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,473894
+Synthesia,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,817993
+Scenario,Image/Video/Audio Generation,YouTube,2025-08-25,2025-08-31,297100
+Whisper,Speech/Audio,YouTube,2025-08-25,2025-08-31,254801
+ElevenLabs,Speech/Audio,YouTube,2025-08-25,2025-08-31,232208
+Hugging Face Audio,Speech/Audio,YouTube,2025-08-25,2025-08-31,160406
+Descript,Speech/Audio,YouTube,2025-08-25,2025-08-31,202234
+Play.ht,Speech/Audio,YouTube,2025-08-25,2025-08-31,346337
+Pinecone,Vector Databases,YouTube,2025-08-25,2025-08-31,11725
+Weaviate,Vector Databases,YouTube,2025-08-25,2025-08-31,243026
+Chroma,Vector Databases,YouTube,2025-08-25,2025-08-31,752364
+Milvus,Vector Databases,YouTube,2025-08-25,2025-08-31,388648
+Vespa,Vector Databases,YouTube,2025-08-25,2025-08-31,601419
+Redis Vector,Vector Databases,YouTube,2025-08-25,2025-08-31,674696
+Qdrant,Vector Databases,YouTube,2025-08-25,2025-08-31,871360
+LangChain,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,27453
+LlamaIndex,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,339753
+Haystack,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,407187
+DSPy,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,779522
+Transformers,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,378146
+Diffusers,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,353338
+OpenVINO,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,532687
+DeepSpeed,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,83714
+Accelerate,Frameworks & Libraries,YouTube,2025-08-25,2025-08-31,744946
+MLflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,135683
+Weights & Biases,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,331835
+ClearML,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,413346
+Kubeflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,735454
+Prefect,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,630695
+Airflow,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,788333
+Ray,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,454933
+Flyte,MLOps & Orchestration,YouTube,2025-08-25,2025-08-31,143883
+Azure AI,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,224590
+AWS Bedrock,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,511891
+Google Vertex AI,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,797407
+Cohere,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,736009
+AI21 Labs,Cloud AI Platforms,YouTube,2025-08-25,2025-08-31,965577
+Copilot,Code Generation,YouTube,2025-08-25,2025-08-31,40941
+CodeWhisperer,Code Generation,YouTube,2025-08-25,2025-08-31,16326
+Tabnine,Code Generation,YouTube,2025-08-25,2025-08-31,215300
+Replit AI,Code Generation,YouTube,2025-08-25,2025-08-31,561223
+AutoGPT,Productivity / Agents,YouTube,2025-08-25,2025-08-31,834448
+BabyAGI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,173787
+CrewAI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,595606
+Langroid,Productivity / Agents,YouTube,2025-08-25,2025-08-31,591346
+Voyager,Productivity / Agents,YouTube,2025-08-25,2025-08-31,260623
+Devin AI,Productivity / Agents,YouTube,2025-08-25,2025-08-31,915710
+ChatGPT,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,589453
+Claude,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,948524
+Gemini,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,558445
+Grok,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,643074
+Perplexity,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,218831
+Mistral,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,109493
+LLaMA,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,260920
+Command R+,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,505212
+Open Assistant,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,942444
+Anthropic,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,303824
+Pi AI,LLMs & Chatbots,YouTube,2025-09-01,2025-09-07,623552
+Falcon,Open Source Models,YouTube,2025-09-01,2025-09-07,675368
+Dolly,Open Source Models,YouTube,2025-09-01,2025-09-07,31712
+StableLM,Open Source Models,YouTube,2025-09-01,2025-09-07,497582
+Vicuna,Open Source Models,YouTube,2025-09-01,2025-09-07,178453
+Alpaca,Open Source Models,YouTube,2025-09-01,2025-09-07,777012
+Orca,Open Source Models,YouTube,2025-09-01,2025-09-07,523812
+Mixtral,Open Source Models,YouTube,2025-09-01,2025-09-07,239299
+Phi,Open Source Models,YouTube,2025-09-01,2025-09-07,149133
+DeepSeek,Open Source Models,YouTube,2025-09-01,2025-09-07,392554
+Stable Diffusion,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,962051
+DALL-E,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,329097
+MidJourney,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,549468
+Runway,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,728706
+Leonardo AI,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,401684
+Pika Labs,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,959185
+Gen-2 Runway,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,417065
+Kaiber,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,579703
+Synthesia,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,226923
+Scenario,Image/Video/Audio Generation,YouTube,2025-09-01,2025-09-07,992106
+Whisper,Speech/Audio,YouTube,2025-09-01,2025-09-07,799701
+ElevenLabs,Speech/Audio,YouTube,2025-09-01,2025-09-07,280075
+Hugging Face Audio,Speech/Audio,YouTube,2025-09-01,2025-09-07,779643
+Descript,Speech/Audio,YouTube,2025-09-01,2025-09-07,775977
+Play.ht,Speech/Audio,YouTube,2025-09-01,2025-09-07,84909
+Pinecone,Vector Databases,YouTube,2025-09-01,2025-09-07,180046
+Weaviate,Vector Databases,YouTube,2025-09-01,2025-09-07,942099
+Chroma,Vector Databases,YouTube,2025-09-01,2025-09-07,730883
+Milvus,Vector Databases,YouTube,2025-09-01,2025-09-07,42066
+Vespa,Vector Databases,YouTube,2025-09-01,2025-09-07,102539
+Redis Vector,Vector Databases,YouTube,2025-09-01,2025-09-07,61937
+Qdrant,Vector Databases,YouTube,2025-09-01,2025-09-07,930427
+LangChain,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,786504
+LlamaIndex,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,14101
+Haystack,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,107746
+DSPy,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,141585
+Transformers,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,826194
+Diffusers,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,675763
+OpenVINO,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,434426
+DeepSpeed,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,750361
+Accelerate,Frameworks & Libraries,YouTube,2025-09-01,2025-09-07,188982
+MLflow,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,224669
+Weights & Biases,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,19403
+ClearML,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,380760
+Kubeflow,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,218875
+Prefect,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,142425
+Airflow,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,748233
+Ray,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,42011
+Flyte,MLOps & Orchestration,YouTube,2025-09-01,2025-09-07,248723
+Azure AI,Cloud AI Platforms,YouTube,2025-09-01,2025-09-07,318838
+AWS Bedrock,Cloud AI Platforms,YouTube,2025-09-01,2025-09-07,765669
+Google Vertex AI,Cloud AI Platforms,YouTube,2025-09-01,2025-09-07,262509
+Cohere,Cloud AI Platforms,YouTube,2025-09-01,2025-09-07,154866
+AI21 Labs,Cloud AI Platforms,YouTube,2025-09-01,2025-09-07,979079
+Copilot,Code Generation,YouTube,2025-09-01,2025-09-07,995195
+CodeWhisperer,Code Generation,YouTube,2025-09-01,2025-09-07,235384
+Tabnine,Code Generation,YouTube,2025-09-01,2025-09-07,13448
+Replit AI,Code Generation,YouTube,2025-09-01,2025-09-07,354670
+AutoGPT,Productivity / Agents,YouTube,2025-09-01,2025-09-07,67952
+BabyAGI,Productivity / Agents,YouTube,2025-09-01,2025-09-07,563086
+CrewAI,Productivity / Agents,YouTube,2025-09-01,2025-09-07,347060
+Langroid,Productivity / Agents,YouTube,2025-09-01,2025-09-07,853306
+Voyager,Productivity / Agents,YouTube,2025-09-01,2025-09-07,107119
+Devin AI,Productivity / Agents,YouTube,2025-09-01,2025-09-07,506251

@@ -1,13 +1,12 @@
 import pandas as pd
 import logging
 import psycopg2
-from psycopg2 import sql
 
 # -------------------------------
 # Setup Logging
 # -------------------------------
 logging.basicConfig(
-    filename="log_files.log.log",
+    filename="log_files.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -19,13 +18,14 @@ DB_HOST = "aws-1-ap-southeast-1.pooler.supabase.com"
 DB_PORT = "5432"
 DB_NAME = "postgres"
 DB_USER = "postgres.piofjbmotpiwbrfaxyws"
-DB_PASSWORD = "12ad34cf@RKSM"  # URL-encode special chars if needed
+DB_PASSWORD = "12ad34cf@RKSM"  # make sure special chars are handled
 
 # -------------------------------
 # Load Raw Data
 # -------------------------------
 try:
-    raw_df = pd.read_csv("combined_trends.csv")  # Replace with your CSV path
+    raw_df = pd.read_csv("combined_trends.csv")  # replace with your CSV path
+    print(f"Raw data rows: {len(raw_df)}")
     logging.info("Raw data loaded successfully.")
 except Exception as e:
     logging.error(f"Failed to load raw data: {e}")
@@ -39,42 +39,43 @@ try:
     raw_df["platform"] = raw_df["platform"].str.strip().str.title()
     raw_df["start_week"] = pd.to_datetime(raw_df["start_week"])
     raw_df["end_week"] = pd.to_datetime(raw_df["end_week"])
-    raw_df["popularity_score"] = pd.to_numeric(raw_df["popularity_score"], errors="coerce").fillna(0)
+    raw_df["popularity_score"] = pd.to_numeric(
+        raw_df["popularity_score"], errors="coerce"
+    ).fillna(0)
     logging.info("Data cleaning completed.")
 except Exception as e:
     logging.error(f"Data cleaning failed: {e}")
     raise
 
 # -------------------------------
-# Connect to Database (Session Pooler)
+# Function to refresh data
 # -------------------------------
-try:
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        port=DB_PORT,
-        database=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD,
-        sslmode='require'
-    )
-    cursor = conn.cursor()
-    logging.info("Database connection via session pooler established.")
-except Exception as e:
-    logging.error(f"Database connection failed: {e}")
-    raise
-
-# -------------------------------
-# Function to safely load data
-# -------------------------------
-def safe_load(df, table_name="genai_tools"):
+def refresh_load(df, table_name="tool_trends"):
+    conn = None
+    cursor = None
     try:
-        # Remove duplicates based on tool_name + start_week
-        df_to_insert = df.drop_duplicates(subset=["tool_name", "start_week"])
+        # Connect to DB
+        conn = psycopg2.connect(
+            host=DB_HOST,
+            port=DB_PORT,
+            database=DB_NAME,
+            user=DB_USER,
+            password=DB_PASSWORD,
+            sslmode="require"
+        )
+        cursor = conn.cursor()
+        logging.info("Database connection established.")
 
-        for idx, row in df_to_insert.iterrows():
+        # 1. Clear existing data
+        cursor.execute(f"TRUNCATE TABLE {table_name} RESTART IDENTITY;")
+        logging.info(f"Table {table_name} truncated.")
+
+        # 2. Insert fresh data
+        for idx, row in df.iterrows():
             cursor.execute(
                 """
-                INSERT INTO tool_trends (tool_name, category, platform, start_week, end_week, popularity_score)
+                INSERT INTO tool_trends 
+                (tool_name, category, platform, start_week, end_week, popularity_score)
                 VALUES (%s, %s, %s, %s, %s, %s)
                 """,
                 (
@@ -83,35 +84,27 @@ def safe_load(df, table_name="genai_tools"):
                     row["platform"],
                     row["start_week"],
                     row["end_week"],
-                    row["popularity_score"]
-                )
+                    row["popularity_score"],
+                ),
             )
 
         conn.commit()
-        logging.info("ETL pipeline completed successfully with categories.")
+        logging.info("Data refreshed successfully.")
+        print("✅ Data refresh completed.")
     except Exception as e:
-        conn.rollback()
-        logging.error(f"ETL pipeline failed: {e}")
+        if conn:
+            conn.rollback()
+        logging.error(f"Data refresh failed: {e}")
         raise
+    finally:
+        if cursor:
+            cursor.close()
+        if conn:
+            conn.close()
+        logging.info("Database connection closed.")
+
 
 # -------------------------------
-# Load the data
+# Run refresh load
 # -------------------------------
-safe_load(raw_df)
-
-# -------------------------------
-# Verify Data Load
-# -------------------------------
-try:
-    cursor.execute("SELECT * FROM tool_trends ORDER BY start_week DESC LIMIT 10;")
-    result = cursor.fetchall()
-    for r in result:
-        print(r)
-    logging.info("Data verification completed successfully.")
-except Exception as e:
-    logging.error(f"Data verification failed: {e}")
-    raise
-finally:
-    cursor.close()
-    conn.close()
-    logging.info("Database connection closed.")
+refresh_load(raw_df)
